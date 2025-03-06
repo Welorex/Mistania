@@ -7,7 +7,7 @@
 >by Prof. Englebert Dinklebinkle, Professor of Life Studies in the [[College of Loravalur\|College of Loravalur]]
 
 ### History
-Mistania was once a fully connected continent but after the [[The Great Divide\|The Great Divide]], it has now been split into three pieces, See The [[Map of Mistania\|Map of Mistania]]. After The Great Divide it wasn't fit to call all three new continents Mistania, So they named the world Mistania and the three continents [[Alluveterre\|Alluveterre]], [[Eternalia\|Eternalia]], and [[Rimeshire\|Rimeshire]], there are also the [[The Zephyr Isles\|The Zephyr Isles]] but they have existed long before The Great Divide.
+Mistania was once a fully connected continent but after the [[The Great Divide\|The Great Divide]], it has now been split into three pieces, See The [[Geography & Politics/Map of Mistania\|Map of Mistania]]. After The Great Divide it wasn't fit to call all three new continents Mistania, So they named the world Mistania and the three continents [[Alluveterre\|Alluveterre]], [[Eternalia\|Eternalia]], and [[Rimeshire\|Rimeshire]], there are also the [[The Zephyr Isles\|The Zephyr Isles]] but they have existed long before The Great Divide.
 
 ### Species
 Mistania is home to many species small and large, but the agreed upon by the [[Geography & Politics/United Empires\|United Empires]] there are five main species; The [[Humans\|Humans]], [[Elves\|Elves]], [[Smallfolk\|Smallfolk]], [[DragonBorn\|DragonBorn]], and [[Orcs\|Orcs]].
