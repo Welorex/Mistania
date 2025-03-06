@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/geography-and-politics/empires/the-solarian-empire/"}
 ---
 
+>Truly a place with as much life as creativity, Solarian is a place were you can live, love, build, and thrive. No wonder it's called "The empire blessed by the sun"
+> 
+> by Prof. Englebert Dinklebinkle, Professor of Life Studies in the [[College of Loravalur\|College of Loravalur]]
 ## The Monarchy
 The humans are ruled by [[Dain Montclair\|Dain Montclair]]. To see the full list of rulers since [[Geography & Politics/The Great Divide\|The Great Divide]] see [[Rulers of Solarian\|Rulers of Solarian]].
 
@@ -34,6 +37,10 @@ Noble Houses are under the direct control of the king, though the king doesn't s
 In The Solarian Empire there is many corporations that are establish throughout all of Mistania. Trade is the most important action to have a functional empire. Corporations are trusted companies that conducted the most trade and have the most shops in the empire. Corporations are all striving to have the biggest grip of the consumer market. In Solarian there is the three big corporations, [[Golden Griffin Trading Co\|Golden Griffin Trading Co]], [[Velmara Trade Consortium\|Velmara Trade Consortium]], [[Eldermyst Labs\|Eldermyst Labs]]. These corporations fight for market control at the cost of the family businesses. 
 
 ## Relations
+The Solarian Empire is liked by the rest of the empires, they try to keep a friendly relation with the rest of the empires and are usually the mediators when conflicts arrive.
 
 ## Special Project
+Unfortunately the Solarian Empire has not released to the public it's special project.
 
+## Species
+[[Humans\|Humans]] mainly dominates most cities and towns in [[Alluterre\|Alluterre]] with exeptions to [[Earlbrook\|Earlbrook]], with [[Other Species\|Other Species]] outnumbering [[Humans\|Humans]] three to one, earning the name "The town of beasts"
