@@ -3,7 +3,7 @@
 ---
 
 ## The Monarchy
-The humans are ruled by [[Dain Montclair\|Dain Montclair]]. To see the full list of rulers since [[The Great Divide\|The Great Divide]] see [[Rulers of Solarian\|Rulers of Solarian]].
+The humans are ruled by [[Dain Montclair\|Dain Montclair]]. To see the full list of rulers since [[Geography & Politics/The Great Divide\|The Great Divide]] see [[Rulers of Solarian\|Rulers of Solarian]].
 
 ## Major Towns and Cities
 There are many towns and cities in the all of [[Alluveterre\|Alluveterre]] these are just the ones with the most humans, have the most trade or are famous for something.

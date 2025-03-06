@@ -9,7 +9,7 @@
 >by Prof. Brumkam Glengork, Professor of Politic and issues Studies in the [[College of Loravalur\|College of Loravalur]]
 
 ## History
-After [[The Great Divide\|The Great Divide]] and all species got split up, [[Geography & Politics/Empires/The Solarian Empire\|The Solarian Empire]] and the [[The Eldran Empire\|The Eldran Empire]] collaborated to make [[Mysterium\|Mysterium]], here all empires could meet and talk about what is happening in their empire and request aid. This was the start of the United Empires.
+After [[Geography & Politics/The Great Divide\|The Great Divide]] and all species got split up, [[Geography & Politics/Empires/The Solarian Empire\|The Solarian Empire]] and the [[The Eldran Empire\|The Eldran Empire]] collaborated to make [[Mysterium\|Mysterium]], here all empires could meet and talk about what is happening in their empire and request aid. This was the start of the United Empires.
 
 ## Members
 United Empires is made of the five biggest empire and representative of each minority. 

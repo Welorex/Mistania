@@ -9,8 +9,7 @@
 - etc
 
 ## Session notes
-
-- session one notes
+[[Session notes\|Session notes]]
 
 ## The Plans
 Here you will find the session plans; [[Campaign/Session overview\|Session overview]].
