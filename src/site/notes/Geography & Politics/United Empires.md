@@ -2,28 +2,35 @@
 {"dg-publish":true,"permalink":"/geography-and-politics/united-empires/"}
 ---
 
->The United Empires are one of the pillars that support the world and without it
->we would of never seen the next day. Empires supporting each other is the best
->way forward towards a new beginning.
->
->by Prof. Brumkam Glengork, Professor of Politic and issues Studies in the [[College of Loravalur\|College of Loravalur]]
+> _The United Empires are one of the pillars that uphold our world. Without them, we would never have seen the next day. Empires supporting one another is the only path toward a brighter future._
+> 
+> _By Prof. Brumkam Glengork, Professor of Politics and Issues Studies at the [[College of Loravalur\|College of Loravalur]]_
 
 ## History
-After [[Geography & Politics/The Great Divide\|The Great Divide]] and all species got split up, [[Geography & Politics/Empires/The Solarian Empire\|The Solarian Empire]] and the [[The Eldran Empire\|The Eldran Empire]] collaborated to make [[Mysterium\|Mysterium]], here all empires could meet and talk about what is happening in their empire and request aid. This was the start of the United Empires.
+
+Following [[Geography & Politics/The Great Divide\|The Great Divide]], the separation of species led to growing tensions. In response, [[Geography & Politics/Empires/The Solarian Empire\|The Solarian Empire]] and [[The Eldran Empire\|The Eldran Empire]] collaborated to establish [[Mysterium\|Mysterium]]—a neutral ground where all empires could meet, discuss their affairs, and request aid. This marked the birth of the United Empires.
 
 ## Members
-United Empires is made of the five biggest empire and representative of each minority. 
-- [[Geography & Politics/Empires/The Solarian Empire\|The Solarian Empire]]
-- [[The Eldran Empire\|The Eldran Empire]]
-- [[Loamnore Kingdom\|Loamnore Kingdom]]
-- [[The Zephyr Isles\|The Zephyr Isles]]
-- [[The Ravagog Dominion\|The Ravagog Dominion]]
-- Lairnan; Representative for the Aasimars
-- Damron; Representative for the Tiefings
-- Neoman Swiftcarver; Representative for the Goliaths
 
-## How it works
-The United Empires meet twice a year, one at the start of a new year and one in the middle. During these meeting they talk about current state of their empire, any problems that are in need of solutions, and how their special project is going. During the year every empire can call one emergency meeting where they in most cases require aid; due to a natural disaster, riots, or in extremes cases the end of their empire. After the empires make a vote to decide if the situation deserves immediate aid or even any aid, if not then the empires will still help them but over a longer period. Afterword everybody goes home or stays in [[Mysterium\|Mysterium]] for work related things.
+The United Empires consists of the five largest empires, along with representatives for key minority groups:
 
-### Special Project
-When any new empire joins the United Empires they are given a Special Project. This Project is to benefit all of Mistania. We only know of one completed Special Project; [[The Warp Gate\|The Warp Gate]] from Oriashire, to Blacktop. Such feat of engineering by the [[Smallfolk\|Smallfolk]] is truly remarkable. The other Special Projects are said to be nearing completion and I can't wait to find out what it is.
+- **[[Geography & Politics/Empires/The Solarian Empire\|The Solarian Empire]]**
+- **[[The Eldran Empire\|The Eldran Empire]]**
+- **[[Loamnore Kingdom\|Loamnore Kingdom]]**
+- **[[The Zephyr Isles\|The Zephyr Isles]]**
+- **[[The Ravagog Dominion\|The Ravagog Dominion]]**
+- **Lairnan** – Representative of the Aasimars
+- **Damron** – Representative of the Tieflings
+- **Neoman Swiftcarver** – Representative of the Goliaths
+
+## How It Works
+
+The United Empires convenes twice a year—once at the beginning of the year and again mid-year. During these meetings, representatives discuss the state of their empires, ongoing challenges, and progress on their **Special Projects**.
+
+In addition to these regular meetings, each empire has the right to call one **emergency meeting** per year. These are typically requested in times of natural disasters, civil unrest, or—at worst—the potential collapse of an empire. In such cases, a vote determines whether immediate aid is granted or if assistance will be provided gradually over time. Once decisions are made, attendees may either return home or remain in [[Mysterium\|Mysterium]] for diplomatic work.
+
+### Special Projects
+
+Each new empire joining the United Empires is assigned a **Special Project**—a large-scale initiative meant to benefit all of Mistania.
+
+So far, only one Special Project has been successfully completed: **[[The Warp Gate\|The Warp Gate]]**, which connects [[Khazdrun\|Khazdrun]] to [[Gildenspire\|Gildenspire]]. This extraordinary feat of engineering, accomplished by the [[Smallfolk\|Smallfolk]], remains one of Mistania’s greatest achievements. Other Special Projects are rumored to be nearing completion, and I eagerly await their unveiling.
