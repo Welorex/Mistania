@@ -25,12 +25,12 @@ Since the Solarian Empire has the most land under their control it became hard t
 
 ### The Noble Houses.
 Noble Houses are under the direct control of the king, though the king doesn't stop territory wars between each house unless they are encroaching onto his land or the land of neutral houses. The list of [[Noble Houses\|Noble Houses]] that control the land of Solarian are listed below if you wish to see the list of ruined houses go to the [[Ruined House\|Ruined House]] section in the library.
-- [[House Nocturne\|House Nocturne]]
-- [[House Aurelius\|House Aurelius]]
-- [[House Ravenshade\|House Ravenshade]]
-- [[House Vexley\|House Vexley]]
-- [[House Blackthorne\|House Blackthorne]]
-- [[House Redwyne\|House Redwyne]]
+- [[Geography & Politics/Empires/Noble Houses/House Nocturne\|House Nocturne]]
+- [[Geography & Politics/Empires/Noble Houses/House Aurelius\|House Aurelius]]
+- [[Geography & Politics/Empires/Noble Houses/House Ravenshade\|House Ravenshade]]
+- [[Geography & Politics/Empires/Noble Houses/House Vexley\|House Vexley]]
+- [[Geography & Politics/Empires/Noble Houses/House Blackthorne\|House Blackthorne]]
+- [[Geography & Politics/Empires/Noble Houses/House Redwyne\|House Redwyne]]
 
 
 ## Trade & Corporations
