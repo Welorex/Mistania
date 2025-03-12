@@ -4,9 +4,11 @@
 
 ## Players
 
-- PC 1
-- PC 2
-- etc
+- Henry; Playing [[Mindartus Ariessus\|Mindartus Ariessus]]
+- Daniel; Playing [[Onyxarion\|Onyxarion]]
+- Auguste; Playing idk
+- Sebass; Playing idk
+- Evan; Playing [[Jimbob\|Jimbob]]
 
 ## Session notes
 [[Session notes\|Session notes]]
