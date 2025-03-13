@@ -21,5 +21,3 @@ For the time being, may I direct you to one of our library sections;
 - [[Adventures & Fiction\|Adventures & Fiction]], for an introduction for the countless stories told in [[Geography & Politics/Alluvterre/Mistania\|Mistania]].
 
 For information on a more meta level, and where to start and the adventure in Mistania; see [[Administrative/Introduction\|Introduction]].
-
-some
