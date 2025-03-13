@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/administrative/welcome/","tags":["gardenEntry"]}
 ---
 
-**FORWORD FROM PROFESER BEARBOR BOGUS V
+**FORWORD FROM PROFESER BEARBOR BOGUS V**
 
 Salutations! And I [[Professor Bearbor Bogus V\|Professor Bearbor Bogus V]], bid you most welcome to my humble little library of scattered notes; the **Encyclopedia Mistania!
 

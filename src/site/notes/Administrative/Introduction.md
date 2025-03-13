@@ -6,7 +6,7 @@
 
 - Henry; Playing [[Characters/Player Characters/Mindartus Ariessus\|Mindartus Ariessus]]
 - Daniel; Playing [[Characters/Player Characters/Onyxarion\|Onyxarion]]
-- Auguste; Playing [[Alistair Stone\|Alistair Stone]]
+- Auguste; Playing [[Characters/Player Characters/Alistair Stone\|Alistair Stone]]
 - Sebass; Playing idk
 - Evan; Playing [[Characters/Player Characters/Jimbob\|Jimbob]]
 
