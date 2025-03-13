@@ -8,7 +8,7 @@
 - Daniel; Playing [[Characters/Player Characters/Onyxarion\|Onyxarion]]
 - Auguste; Playing [[Alonzo Von Blackstone\|Alonzo Von Blackstone]]
 - Sebass; Playing idk
-- Evan; Playing [[Jimbob\|Jimbob]]
+- Evan; Playing [[Characters/Player Characters/Jimbob\|Jimbob]]
 
 ## Session notes
 [[Session notes\|Session notes]]
