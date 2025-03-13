@@ -5,7 +5,7 @@
 ## Players
 
 - Henry; Playing [[Characters/Player Characters/Mindartus Ariessus\|Mindartus Ariessus]]
-- Daniel; Playing [[Onyxarion\|Onyxarion]]
+- Daniel; Playing [[Characters/Player Characters/Onyxarion\|Onyxarion]]
 - Auguste; Playing [[Alonzo Von Blackstone\|Alonzo Von Blackstone]]
 - Sebass; Playing idk
 - Evan; Playing [[Jimbob\|Jimbob]]
