@@ -4,7 +4,7 @@
 
 **FORWORD FROM PROFESER BEARBOR BOGUS V**
 
-Salutations! And I [[Professor Bearbor Bogus V\|Professor Bearbor Bogus V]], bid you most welcome to my humble little library of scattered notes; the **Encyclopedia Mistania!
+Salutations! And I [[Professor Bearbor Bogus V\|Professor Bearbor Bogus V]], bid you most welcome to my humble little library of scattered notes; the **Encyclopedia Mistania!**
 
 I admit, my boundless ambition to one day publish this encyclopedia may have overshot the mark a bit, [[Geography & Politics/Alluvterre/Mistania\|Mistania]], is a large place, far larger than I anticipated during my youth growing up in [[Zir\|Zir]].
 
@@ -21,3 +21,5 @@ For the time being, may I direct you to one of our library sections;
 - [[Adventures & Fiction\|Adventures & Fiction]], for an introduction for the countless stories told in [[Geography & Politics/Alluvterre/Mistania\|Mistania]].
 
 For information on a more meta level, and where to start and the adventure in Mistania; see [[Administrative/Introduction\|Introduction]].
+
+some
