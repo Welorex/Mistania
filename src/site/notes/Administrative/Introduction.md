@@ -10,7 +10,7 @@
 - Sebass; Playing idk
 - Evan; Playing [[Characters/Player Characters/Jimbob\|Jimbob]]
 
-I'm using The [[Characters/Character Template\|Character Template]].
+Please try out The [[Characters/Character Template\|Character Template]].
 
 ## Session notes
 [[Session notes\|Session notes]]
