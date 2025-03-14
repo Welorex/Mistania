@@ -13,7 +13,7 @@ The Real Contract: The last job his crew took wasn’t just an ordinary hit. The
 
 ## Ties
 people your PC knows, from their past most of the time they are alive but not always. This is very helpful for making plot
-
+ex. Malrik, The Lost Friend: Orin’s childhood protector from the orphanage fire, whose fate remains unknown.
 ## Goals
 Things your PC want to do/learn about
 #### Short term
