@@ -17,7 +17,7 @@ For the time being, may I direct you to one of our library sections;
 - [[Species & Cultures\|Species & Cultures]], for the various intelligent peoples in our world!
 - [[Religion & Deities\|Religion & Deities]], to understand gods, churches, and holidays!
 - [[History & Myths\|History & Myths]], for an overview of all that's ever happened.
-- [[Geography & Politics/Other things/Geography & Politics\|Geography & Politics]], to understand how best to navigate the world map 
+- [[Geography & Politics/Geography & Politics\|Geography & Politics]], to understand how best to navigate the world map 
 - [[Adventures & Fiction\|Adventures & Fiction]], for an introduction for the countless stories told in [[Geography & Politics/Other things/Mistania\|Mistania]].
 
 For information on a more meta level, and where to start and the adventure in Mistania; see [[Administrative/Introduction\|Introduction]].

@@ -16,4 +16,4 @@ Please try out The [[Characters/Character Template\|Character Template]].
 [[Session notes\|Session notes]]
 
 ## The Plans
-Here you will find the session plans; [[Campaign/Session overview\|Session overview]].
+Here you will find the session plans; [[Campaign/Adventure Overview\|Adventure Overview]].

@@ -11,3 +11,6 @@ The city's economy thrives on adventurers, with **blacksmiths, enchanters, alche
 Those who dream of glory, wealth, or discovery often find themselves drawn to Brightshield. Some will rise to legend, while others will fade into forgotten stories—but all will remember the city where their adventure began.
 
 ## Shops and Trade
+
+## Map
+![brightshield.png](/img/user/Miscellaneous/brightshield.png)
