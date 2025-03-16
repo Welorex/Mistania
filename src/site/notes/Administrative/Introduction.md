@@ -7,7 +7,7 @@
 - Henry; Playing [[Characters/Player Characters/Mindartus Ariessus\|Mindartus Ariessus]]
 - Daniel; Playing [[Characters/Player Characters/Onyxarion\|Onyxarion]]
 - Auguste; Playing [[Characters/Player Characters/Alistair Stone\|Alistair Stone]]
-- Sebass; Playing [[Characters/Player Characters/Corlyle Mallow (Core-lie-uhl Mah-low)\| Corlyle Mallow]]
+- Seabass; Playing [[Characters/Player Characters/Corlyle Mallow (Core-lie-uhl Mah-low)\| Corlyle Mallow]]
 - Evan; Playing [[Characters/Player Characters/Jimbob\|Jimbob]]
 
 Please try out The [[Characters/Character Template\|Character Template]].
