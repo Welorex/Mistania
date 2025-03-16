@@ -8,7 +8,7 @@
 
 ## History
 
-Following [[Geography & Politics/Other things/The Great Divide\|The Great Divide]], the separation of species led to growing tensions. In response, [[Geography & Politics/Alluvterre/The Solarian Empire/The Solarian Empire\|The Solarian Empire]] and [[The Eldran Empire\|The Eldran Empire]] collaborated to establish [[Mysterium\|Mysterium]]—a neutral ground where all empires could meet, discuss their affairs, and request aid. This marked the birth of the United Empires.
+Following [[Geography & Politics/Other things/The Great Divide\|The Great Divide]] 1395 years ago, the separation of species led to growing tensions. In response, [[Geography & Politics/Alluvterre/The Solarian Empire/The Solarian Empire\|The Solarian Empire]] and [[The Eldran Empire\|The Eldran Empire]] collaborated to establish [[Mysterium\|Mysterium]]—a neutral ground where all empires could meet, discuss their affairs, and request aid. This marked the birth of the United Empires.
 
 ## Members
 
