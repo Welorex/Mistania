@@ -21,7 +21,10 @@ There are many towns and cities in the all of [[Alluveterre\|Alluveterre]] these
 - [[Earlbrook\|Earlbrook]]
 
 ## Order of Hierarchy
-Since the Solarian Empire has the most land under their control it became hard to manage all at once. So [[Soren D. Montclair\|Soren D. Montclair]] created the Hierarchy. A system in which the land of Salorian would be split up and assigned to [[Noble Houses\|Noble Houses]] to look over, each house gives some of the land to Lords for simpler management. Every House reports directly back to the king. Under them are [[Knights\|Knights]], then [[Commoners\|Commoners]].
+Since the Solarian Empire has the most land under their control it became hard to manage all at once. So [[Soren D. Montclair\|Soren D. Montclair]] created the Hierarchy. A system in which the land of Solarian would be split up and assigned to [[Noble Houses\|Noble Houses]] to look over, each house gives some of the land to Lords for simpler management. Every House reports directly back to the king. Under them are [[Knights\|Knights]], then [[Commoners\|Commoners]]. 
+
+### Lords
+Throughout all of Solarian there are lords and duke. So the Noble Houses don't have to break their back governing every single village and city, they decided to make Lords. Instead of having 
 
 ### The Noble Houses.
 Noble Houses are under the direct control of the king, though the king doesn't stop territory wars between each house unless they are encroaching onto his land or the land of neutral houses. The list of Noble Houses that control the land of Solarian are listed below if you wish to see the list of ruined houses go to the [[Ruined House\|Ruined House]] section in the library.

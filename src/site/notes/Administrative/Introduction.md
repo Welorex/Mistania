@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/administrative/introduction/"}
 ---
 
+Session counter:
+- Session 1: march 16 2025
+- Session 2: march 28 2025
+- Session 3: April 6 2025
+- Session 4: April 13 2025
 ## Players
 
 - Henry; Playing [[Characters/Player Characters/Mindartus Ariessus\|Mindartus Ariessus]]
@@ -13,7 +18,7 @@
 Please try out The [[Characters/Character Template\|Character Template]].
 
 ## Session notes
-[[Session notes\|Session notes]]
+[[Campaign/Session notes\|Session notes]]
 
 ## The Plans
 Here you will find the session plans; [[Campaign/Adventure Overview\|Adventure Overview]].
