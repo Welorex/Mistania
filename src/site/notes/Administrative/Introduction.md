@@ -13,7 +13,7 @@ Session counter:
 - Daniel; Playing [[Characters/Player Characters/Onyxarion\|Onyxarion]]
 - Auguste; Playing [[Characters/Player Characters/Alistair Stone\|Alistair Stone]]
 - Seabass; Playing [[Characters/Player Characters/Corlyle Mallow (Core-lie-uhl Mah-low)\| Corlyle Mallow]]
-- Evan; Playing [[Characters/Player Characters/Jimbob\|Jimbob]]
+- Evan; Playing [[Characters/Player Characters/Mr Potato\|Mr Potato]]
 
 Please try out The [[Characters/Character Template\|Character Template]].
 
