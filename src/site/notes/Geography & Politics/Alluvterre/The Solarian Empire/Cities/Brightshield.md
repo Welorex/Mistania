@@ -13,4 +13,4 @@ Those who dream of glory, wealth, or discovery often find themselves drawn to Br
 ## Shops and Trade
 
 ## Map
-![brightshield.png](/img/user/Miscellaneous/brightshield.png)
+![brightshield.png](/img/user/z_Images/brightshield.png)
