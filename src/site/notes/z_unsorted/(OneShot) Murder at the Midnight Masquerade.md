@@ -3,7 +3,7 @@
 ---
 
 ## Introduction
-This is a small oneshot that I made for my family and friends who have not even played D&D. I'll be DMing this game on friday the 15th of April 2025 and that's why I can't do a full day thing.
+This is a small oneshot that I made for my family and friends who have not even played D&D. I'll be DMing this game on friday the 18th of April 2025 and that's why I can't do a full day thing.
 ### Session description
 They have all been invited to the Midnight Masquerade, a fabulous ball that the Velwin Family throws every summer solstice. As the party comes to a high, The Baron raises his glass for a toast. Before falling dead after drinking his wine. The arcane barrier is activated, making sure no one can leave or enter. But it can only hold for so long. It is up to the adventures to find the culprit before the clock strikes midnight. 
 

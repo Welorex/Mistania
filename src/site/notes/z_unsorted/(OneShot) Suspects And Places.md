@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/z-unsorted/one-shot-suspects-and-places/"}
 ---
 
-##  **Key NPCs for _Murder at the Midnight Masquerade_**
+## **Key NPCs for _Murder at the Midnight Masquerade_**
+
+This will all be printed in a doc, this is here just to view :)
 
 ---
 
@@ -15,11 +17,11 @@
 - **Secret:** She was **seen arguing with the Baron** the night before in the garden.
     
 
-🗣 _“He always thought himself clever… but cleverness gets you nowhere without legacy.”_
+ _“He always thought himself clever… but cleverness gets you nowhere without legacy.”_
 
 ---
 
-###  **Master Rellin Trask**
+###  **Rellin, the Steward**
 
 - **Role:** The wine steward. Nervous, twitchy, and overly polite.
     
@@ -28,7 +30,7 @@
 - **Secret:** He **handled the wine bottle** before the toast, and his ledger shows a payment from an anonymous source.
     
 
-🗣 _“I—I only poured what I was told to. Surely you don’t think—oh gods, no...”_
+ _“I—I only poured what I was told to. Surely you don’t think—oh gods, no...”_
 
 ---
 
@@ -41,7 +43,7 @@
 - **Secret:** Carries a **vial of similar poison** (used for “stage effects”), but swears it wasn’t used.
     
 
-🗣 _“Let’s not pretend he didn’t deserve a little retribution. Doesn’t mean I _killed_ him.”_
+ _“Let’s not pretend he didn’t deserve a little retribution. Doesn’t mean I _killed_ him.”_
 
 ---
 
@@ -54,7 +56,7 @@
 - **Secret:** She recognizes the glyph from the wine bottle—it's tied to a **banned necromantic school**.
     
 
-🗣 _“Knowledge isn’t evil. What people do with it… that’s another matter entirely.”_
+ _“Knowledge isn’t evil. What people do with it… that’s another matter entirely.”_
 
 ---
 
@@ -64,10 +66,10 @@
     
 - **Motive:** Recently learned the Baron planned to **sell the estate**—which would leave him jobless and homeless.
     
-- **Secret:** Saw someone **sneaking into the wine cellar** but is hiding it to protect someone (you decide who!).
+- **Secret:** Saw someone **sneaking into the wine cellar** but is hiding it to protect someone .
     
 
-🗣 _“I serve the house, not just the man. And this house has many shadows.”_
+ _“I serve the house, not just the man. And this house has many shadows.”_
 
 ---
 
@@ -80,12 +82,12 @@
 - **Secret:** She has **letters between her and the Baron**, burned at the edges but still readable.
     
 
-🗣 _“Dead men tell no tales… though they leave behind _such_ interesting correspondence.”_
+ _“Dead men tell no tales… though they leave behind _such_ interesting correspondence.”_
 
 ## Places for Investigation
 ---
 
-###  1. **The Wine Cellar – Poison Source**
+###  **1. The Wine Cellar – Rellin, the Steward**
 
 >  Checks:
 
@@ -107,12 +109,12 @@
 
 ---
 
-###  2. **The Baron’s Study – Secrets & Blackmail**
+###  **2. The Baron’s Study – Professor Endra Quill**
 
 >  Checks:
 
 - **Perception (DC 14):** Find a note tucked behind a painting — half of a burned letter with the phrase _“…your secret is safe, so long as you honor our deal.”_
-    
+	
 - **Investigation (DC 16):** Spot a faint outline on the floor — a **hidden trapdoor** under the rug.
     
 - **Dexterity (DC 15):** Pick the lock to open it.
@@ -131,7 +133,7 @@
 
 ---
 
-###  3. **Guest Bedroom – Masked Movements**
+###  **3. Guest Bedroom – Mira Valcoran**
 
 >  Checks:
 
@@ -152,6 +154,45 @@
     
 - Thorne’s costume has **wine stains** on the inner sleeve — he was near the cellar, despite saying otherwise.
     
+
+---
+###  **4. Ballroom – Thorne Merrick**
+
+> Checks:
+
+- **Investigation (DC 14):** Inspect the Baron’s goblet — no residue, but magically clean.
+    
+- **Arcana (DC 15):** Trace faint lingering necrotic magic — possibly from a glyph trigger.
+    
+- **Insight (DC 13):** Thorne is _trying too hard_ to keep attention off the cellar.
+    
+
+> Clues:
+
+- Goblet was magically cleaned — someone knew spells.
+    
+- The poison must’ve been delivered _just before_ the toast.
+    
+- Thorne’s sleeve is damp with wine; he claims it’s from “spilling backstage.”
+---
+### **5. Greenhouse Garden – Lady Celeste Velwin  **
+
+> Checks:
+
+- **Survival (DC 13):** Muddy footprints lead in from the outer path—_not visible from indoors._
+    
+- **Insight (DC 12):** Celeste is more shaken than expected — hiding something emotional.
+    
+- **Nature (DC 13):** A plant nearby has been _crushed recently_, as if someone stumbled through it.
+    
+
+> Clues:
+
+- Celeste wasn’t alone — a _second set of prints_ leads in and back out again.
+    
+- A fallen glove near the door bears a **masquerade emblem not matching any guest**.
+    
+
 
 ---
 
@@ -188,3 +229,8 @@ Give them 4 "clue phases" before the seal collapses.
 - **After Phase 3**: Lights begin to flicker, and they hear whispers—hint at a supernatural escalation.
     
 - **After Phase 4**: Either final confrontation, or a ghost fight with the Baron's wrath manifesting.
+
+## How It all went down
+To start Mira Valcoran is the killer. But not everyone is innocent. Mira is the heir to the Valcoran family but she started to blackmail the Baron to do her bidding. ~~The baron was going to rat her out and tell everyone that she practices forbidden magic.~~ 
+
+Here's how she did it: First she learned enough magic to replicate Professor Endra Vott's glyphs. And Used a secret passage to get into the wine cellar. She then bribed Rellin to make sure that the bottle of wine was the one that was served to the baron. and for he to hide it after
