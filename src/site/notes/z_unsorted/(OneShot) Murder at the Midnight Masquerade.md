@@ -44,11 +44,11 @@ _"Please, everyone remain calm! The arcane barrier is a safety precaution. We ar
 
 ### I'm just going to make this your problem
 Now with everyone settle, the guard tell the adventures that need need help. They need to watch the guest and you need to go find out who killed the baron, and fast the arcane barrier won't hold forever. They have until midnight to find the culprit or they escape. They give them a list of people to investigate. (See [[z_unsorted/(OneShot) Suspects And Places\|(OneShot) Suspects And Places]])
-### Scene
-scene description
+### Lets go Find a culprit!
+After explaining the rules they go off to find out who did the crime.
 
-## Chapter
-scene description
+## Yap sesh incomming!
+In this chapter we have some stuff the NPCs would say when being question. 
 
 ### Scene
 scene description
