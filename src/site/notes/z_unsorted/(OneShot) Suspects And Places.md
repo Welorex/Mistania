@@ -52,17 +52,6 @@ This will all be printed in a doc, this is here just to view :)
 
 ---
 
-###  **Lord Danton Velwin (Baron’s brother)**
-
-- **Role:** The Young brother of the baron, always been at odds
-
-- **Secret:** Was planning to kill his brother.
-
-
- _“I don't care for my brother, nor do I care about this stupid house.”_
-
----
-
 ###  **Mira Valcoran**
 
 - **Role:** A mysterious masked noblewoman. Dazzling, witty, and hard to read.
