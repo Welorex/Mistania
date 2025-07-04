@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-campaign/administrative/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/my-campaign/administrative/welcome/"}
 ---
 
 **FORWORD FROM PROFESER BEARBOR BOGUS V**
