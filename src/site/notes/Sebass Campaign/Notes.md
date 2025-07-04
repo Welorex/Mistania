@@ -12,3 +12,6 @@
 - We leveled up
 - Have invitation to go to Wobbley Warcamp
 - We have proven ourselves I think
+
+
+## Session 2
