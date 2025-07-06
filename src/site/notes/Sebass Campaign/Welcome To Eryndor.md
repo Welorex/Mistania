@@ -13,7 +13,7 @@ Anything still related to my Campaign can still be found in the **My Campaign** 
 ## The Map of Eryndor
 **A remade map curtesy of me!**
 
-![Mappy2.png](/img/user/Mappy2.png)
+![Mappy2.png](/img/user/Sebass%20Campaign/Mappy2.png)
 
 ## Everything Else
 You can find all notes and everything else I have written about Sebass's Campaign below.
