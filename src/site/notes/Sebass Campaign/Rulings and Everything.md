@@ -8,7 +8,6 @@
 # Rules
 
 
-![[Drinking RulesV2.pdf]]
 
 
 
