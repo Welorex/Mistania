@@ -31,3 +31,6 @@ https://docs.google.com/document/d/1rFhXX9pJ8XVecDcXpl-wfE2SNoP07_kmw2q31azhGUo/
 
 Sebass's Rules Document
 https://docs.google.com/document/d/18jon3MjfL6v-06jRY7RFSi8HeddPlaR0qKLCnRd1Aag/edit?tab=t.0
+
+Sebass's Reputation Rules Document
+https://docs.google.com/document/d/1B_wYznZFrNzcEutN1ZHvrWrUQ2IceZOyfVqgf98ShZw/edit?tab=t.0
