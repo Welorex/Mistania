@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sebass-campaign/welcome-to-eryndor/","tags":["gardenEntry"]}
 ---
 
-# Welcome To Eryndor
+# Welcome To Eryndor!
 
  **To all esteemed guest of this website, welcome to the homepage of Sebass's Campaign!**
 ##### Notice 
