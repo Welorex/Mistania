@@ -19,10 +19,12 @@ Anything still related to my Campaign can still be found in the **My Campaign** 
 
 ## Everything Else
 You can find all notes and everything else I have written about Sebass's Campaign below.
-### [[Sebass Campaign/Notes\|Notes]]
-### [[Sebass Campaign/Jonathan's Notebook\|Jonathan's Notebook]]
+#### [[Sebass Campaign/Notes\|Notes]]
+#### [[Sebass Campaign/Jonathan's Notebook\|Jonathan's Notebook]]
 
-### [[Sebass Campaign/Rulings and Everything\|Rulings and Everything]]
+#### [[Sebass Campaign/Rulings and Everything\|Rulings and Everything]]
+
+#### [[Sebass Campaign/Recaps\|Recaps]]
 
 ## External Links
 

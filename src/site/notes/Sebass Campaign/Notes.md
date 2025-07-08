@@ -22,6 +22,6 @@
 - It it said that a group of hunters killed a large wolf called The Nightstalker, and they took a large fang as a trophy. They built a hall how the fang and after time people gathered to make a village around this. This is where we are.
 - Nobble is the receptionist at the council hall
 - Merrybell Undermead (Or just Merry) is the owner of burrowise bakery
-- Heinrick is part of the council hall, he wears expensive looking cloths
+- Heinrick Stell is part of the council hall, he wears expensive looking cloths
 - Darla Greenthorn is a herbalist who might be a witch
-- Mr stell is someone, I forgot. He might own Thornbead stables
+- Riker Underhill owns the Thornbend stables. he does not like us
