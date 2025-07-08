@@ -21,3 +21,11 @@ You can find all notes and everything else I have written about Sebass's Campaig
 ### [[Sebass Campaign/Jonathan's Notebook\|Jonathan's Notebook]]
 
 ### [[Sebass Campaign/Rulings and Everything\|Rulings and Everything]]
+
+## External Links
+
+The Lore Document:
+https://docs.google.com/document/d/1rFhXX9pJ8XVecDcXpl-wfE2SNoP07_kmw2q31azhGUo/edit?tab=t.0
+
+Sebass's Rules Document
+https://docs.google.com/document/d/18jon3MjfL6v-06jRY7RFSi8HeddPlaR0qKLCnRd1Aag/edit?tab=t.0
