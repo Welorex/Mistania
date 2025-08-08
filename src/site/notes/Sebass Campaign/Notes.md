@@ -25,3 +25,6 @@
 - Heinrick Stell is part of the council hall, he wears expensive looking cloths
 - Darla Greenthorn is a herbalist who might be a witch
 - Riker Underhill owns the Thornbend stables. he does not like us
+
+## Session 5
+- 
