@@ -71,7 +71,7 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 | ---------------- | ----------- | ------------------ | -------- | ----------------------------------------------------------- |
 | Liberty          | Power       | 4d6 piercing       | 14       | None                                                        |
 | JKE-X2 Kenshin   | Tech        | 2d6 piercing       | 20       | None                                                        |
-| Lexington x-MOD2 | Power       | 3d6 piercing       | 12       | +2 to attack rolls                                          |
+| M-10AF Lexington | Power       | 3d6 piercing       | 12       | +2 to attack rolls                                          |
 | Ticon            | Tech        | 2d6 piercing       | 9        | Charged shots fire 3 rounds at once.                        |
 | HJKE-11 Yukimura | Smart       | 2d6 piercing       | 10       | None                                                        |
 | Kappa            | Smart       | 2d6 piercing       | 12       | Can lock onto two enemies, spliting the damage between them |
@@ -95,17 +95,17 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 | --------------- | ----------- | ------------------ | ------------ | ----------------------------- |
 | M2038 Tactician | Power       | 4d6 piercing       | 8            | None                          |
 | Carnage         | Power       | 5d6 piercing       | 4            | None                          |
-| Order           | Tech        | 4d6 piercing       | 2            | Charged Shot vaporizes Cover. |
+| DB-2 Satara     | Tech        | 4d6 piercing       | 2            | Charged Shot vaporizes Cover. |
 | Pozhar x-MOD2   | Power       | 4d6 piercing       | 4            | +2 to attack rolls            |
 
 ### Assault Rifles
-| Weapon Name   | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                                  |
-| ------------- | ----------- | ------------------ | ------------ | ------------------------------------------------------------------------------- |
-| DA8 Umbra     | Power       | 5d6 piercing       | 25           | None                                                                            |
-| D5 Sidewinder | Smart       | 4d6 piercing       | 25           | Deals an extra 1d6 damage but only reroll attacks that miss by 2 or less than 2 |
-| Prejudice     | Power       | 4d6 piercing       | 20           | Does triple damage on a Critical success of single shots                        |
-| Nowaki        | Power       | 5d6 piercing       | 20           | None                                                                            |
-| Hercules 3AX  | Smart       | 5d6 piercing       | 25           | Allows smart targeting without the required cyberware                           |
+| Weapon Name      | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                                  |
+| ---------------- | ----------- | ------------------ | ------------ | ------------------------------------------------------------------------------- |
+| DA8 Umbra        | Power       | 5d6 piercing       | 25           | None                                                                            |
+| D5 Sidewinder    | Smart       | 4d6 piercing       | 25           | Deals an extra 1d6 damage but only reroll attacks that miss by 2 or less than 2 |
+| HJSH-18 Masamune | Power       | 4d6 piercing       | 20           | Does triple damage on a Critical success of single shots                        |
+| Nowaki           | Power       | 5d6 piercing       | 20           | None                                                                            |
+| Hercules 3AX     | Smart       | 5d6 piercing       | 25           | Allows smart targeting without the required cyberware                           |
 
 ### LMGs
 | Weapon Name    | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                 |
@@ -137,19 +137,19 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 | Cut-o-Matic        | Bladed      | 2d6 slashing       | None                                                                                  |
 | Machete            | Bladed      | 2d6 slashing       | None                                                                                  |
 | Byakko             | Bladed      | 3d6 slashing       | Killing an enemy with this weapon allows you to use your bonus action to attack again |
-| Cut-o-Matic x-MOD2 | Bladed      | 2d6 slashing       | +2 to attack rolls                                                                    |
+| Cut-o-Matic x-MOD3 | Bladed      | 2d6 slashing       | +2 to attack rolls                                                                    |
 | Volkodav           | Bladed      | 2d6 slashing       | 20% Chance to deal 1d10 fire damage when hit                                          |
 ### Blunt Weapons
 
-| Weapon Name        | Weapon Type | Single Shot Damage | Special Effect                                                    |
-| ------------------ | ----------- | ------------------ | ----------------------------------------------------------------- |
-| Baseball Bat       | Blunt       | 2d6 bludgeoning    | None                                                              |
-| Baby Boomer        | Blunt       | 2d6 bludgeoning    | Every consecutive hit increases the damage by 1d6                 |
-| Crowbar            | Blunt       | 2d6 bludgeoning    | None                                                              |
-| Hammer             | Blunt       | 3d6 bludgeoning    | None                                                              |
-| Sasquatch's Hammer | Blunt       | 4d6 bludgeoning    | Speed halved                                                      |
-| Caretaker's Spade  | Blunt       | 4d6 bludgeoning    | Speed reduced by 10ft                                             |
-| Cottonmouth        | Blunt       | 3d6 bludgeoning    | 10% Chance to apply the Posioned and Paralyzed condition on a hit |
+| Weapon Name  | Weapon Type | Single Shot Damage | Special Effect                                                    |
+| ------------ | ----------- | ------------------ | ----------------------------------------------------------------- |
+| Baseball Bat | Blunt       | 2d6 bludgeoning    | None                                                              |
+| Baby Boomer  | Blunt       | 2d6 bludgeoning    | Every consecutive hit increases the damage by 1d6                 |
+| Crowbar      | Blunt       | 2d6 bludgeoning    | None                                                              |
+| Hammer       | Blunt       | 3d6 bludgeoning    | None                                                              |
+| SledgeHammer | Blunt       | 4d6 bludgeoning    | Speed halved                                                      |
+| Spade        | Blunt       | 4d6 bludgeoning    | Speed reduced by 10ft                                             |
+| ViperFang    | Blunt       | 3d6 bludgeoning    | 10% Chance to apply the Posioned and Paralyzed condition on a hit |
 
 ### Cyberware Weapons
 
