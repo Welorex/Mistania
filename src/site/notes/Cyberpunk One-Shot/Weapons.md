@@ -69,93 +69,93 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 ### Pistols
 | Weapon Name      | Weapon Type | Single Shot Damage | Mag Size | Special Effect                                              |
 | ---------------- | ----------- | ------------------ | -------- | ----------------------------------------------------------- |
-| Liberty          | Power       | 4d6                | 14       | None                                                        |
-| JKE-X2 Kenshin   | Tech        | 2d6                | 20       | None                                                        |
-| Lexington x-MOD2 | Power       | 3d6                | 12       | +2 to attack rolls                                          |
-| Ticon            | Tech        | 2d6                | 9        | Charged shots fire 3 rounds at once.                        |
-| HJKE-11 Yukimura | Smart       | 2d6                | 10       | None                                                        |
-| Kappa            | Smart       | 2d6                | 12       | Can lock onto two enemies, spliting the damage between them |
+| Liberty          | Power       | 4d6 piercing       | 14       | None                                                        |
+| JKE-X2 Kenshin   | Tech        | 2d6 piercing       | 20       | None                                                        |
+| Lexington x-MOD2 | Power       | 3d6 piercing       | 12       | +2 to attack rolls                                          |
+| Ticon            | Tech        | 2d6 piercing       | 9        | Charged shots fire 3 rounds at once.                        |
+| HJKE-11 Yukimura | Smart       | 2d6 piercing       | 10       | None                                                        |
+| Kappa            | Smart       | 2d6 piercing       | 12       | Can lock onto two enemies, spliting the damage between them |
 
 ### Revolvers
 | Weapon Name      | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                                                                                       |
 | ---------------- | ----------- | ------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Comrade's Hammer | Tech        | 4d6                | 1            | Fires explosive rounds (The target and all other creatures within 5ft of it take 1d10 fire damage each), but cannot penetrate cover. |
-| DR-5 Nova        | Power       | 3d6                | 6            | None                                                                                                                                 |
-| RT-46 Burya      | Tech        | 2d6                | 6            | None                                                                                                                                 |
+| Comrade's Hammer | Tech        | 4d6 piercing       | 1            | Fires explosive rounds (The target and all other creatures within 5ft of it take 1d10 fire damage each), but cannot penetrate cover. |
+| DR-5 Nova        | Power       | 3d6 piercing       | 6            | None                                                                                                                                 |
+| RT-46 Burya      | Tech        | 2d6 piercing       | 6            | None                                                                                                                                 |
 
 ### SMGs
 | Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                    |
 | ----------- | ----------- | ------------------ | ------------ | ------------------------------------------------- |
-| Senkoh LX   | Tech        | 2d6                | 25           | Autofires when charged                            |
-| DS1 Pulsar  | Power       | 3d6                | 30           | None                                              |
-| G-58 Dian   | Smart       | 2d6                | 30           | None                                              |
-| Fenrir      | Power       | 2d6                | 30           | 20% to stun an enemy when hit with a single shot. |
+| Senkoh LX   | Tech        | 2d6 piercing       | 25           | Autofires when charged                            |
+| DS1 Pulsar  | Power       | 3d6 piercing       | 30           | None                                              |
+| G-58 Dian   | Smart       | 2d6 piercing       | 30           | None                                              |
+| Fenrir      | Power       | 2d6 piercing       | 30           | 20% to stun an enemy when hit with a single shot. |
 ### Shotguns
 | Weapon Name     | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                |
 | --------------- | ----------- | ------------------ | ------------ | ----------------------------- |
-| M2038 Tactician | Power       | 4d6                | 8            | None                          |
-| Carnage         | Power       | 5d6                | 4            | None                          |
-| Order           | Tech        | 4d6                | 2            | Charged Shot vaporizes Cover. |
-| Pozhar x-MOD2   | Power       | 4d6                | 4            | +2 to attack rolls            |
+| M2038 Tactician | Power       | 4d6 piercing       | 8            | None                          |
+| Carnage         | Power       | 5d6 piercing       | 4            | None                          |
+| Order           | Tech        | 4d6 piercing       | 2            | Charged Shot vaporizes Cover. |
+| Pozhar x-MOD2   | Power       | 4d6 piercing       | 4            | +2 to attack rolls            |
 
 ### Assault Rifles
 | Weapon Name   | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                                  |
 | ------------- | ----------- | ------------------ | ------------ | ------------------------------------------------------------------------------- |
-| DA8 Umbra     | Power       | 5d6                | 25           | None                                                                            |
-| D5 Sidewinder | Smart       | 4d6                | 25           | Deals an extra 1d6 damage but only reroll attacks that miss by 2 or less than 2 |
-| Prejudice     | Power       | 4d6                | 20           | Does triple damage on a Critical success of single shots                        |
-| Nowaki        | Power       | 5d6                | 20           | None                                                                            |
-| Hercules 3AX  | Smart       | 5d6                | 25           | Allows smart targeting without the required cyberware                           |
+| DA8 Umbra     | Power       | 5d6 piercing       | 25           | None                                                                            |
+| D5 Sidewinder | Smart       | 4d6 piercing       | 25           | Deals an extra 1d6 damage but only reroll attacks that miss by 2 or less than 2 |
+| Prejudice     | Power       | 4d6 piercing       | 20           | Does triple damage on a Critical success of single shots                        |
+| Nowaki        | Power       | 5d6 piercing       | 20           | None                                                                            |
+| Hercules 3AX  | Smart       | 5d6 piercing       | 25           | Allows smart targeting without the required cyberware                           |
 
 ### LMGs
 | Weapon Name    | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                 |
 | -------------- | ----------- | ------------------ | ------------ | ------------------------------ |
-| M2067 Defender | Power       | 3d6                | 40           | Halves Movement Speed          |
-| MA70 HB        | Power       | 3d6                | 30           | Reduces Movement Speed by 10ft |
+| M2067 Defender | Power       | 3d6 piercing       | 40           | Halves Movement Speed          |
+| MA70 HB        | Power       | 3d6 piercing       | 30           | Reduces Movement Speed by 10ft |
 ### HMGs
 | Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                 |
 | ----------- | ----------- | ------------------ | ------------ | ------------------------------ |
-| Mk. 31 HMG  | Power       | 6d6                | 100          | Reduces Movement Speed to 10ft |
+| Mk. 31 HMG  | Power       | 6d6 piercing       | 100          | Reduces Movement Speed to 10ft |
 ### Precision Rifles
 | Weapon Name     | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                      |
 | --------------- | ----------- | ------------------ | ------------ | --------------------------------------------------- |
-| Achilles x-MOD2 | Tech        | 4d6                | 12           | None                                                |
-| Hypercritical   | Power       | 5d6                | 6            | Crits on a 19 or 20                                 |
-| Widow Maker     | Tech        | 4d6                | 10           | 20% Chance to apply the posioned condition when hit |
+| Achilles x-MOD2 | Tech        | 4d6 piercing       | 12           | None                                                |
+| Hypercritical   | Power       | 5d6 piercing       | 6            | Crits on a 19 or 20                                 |
+| Widow Maker     | Tech        | 4d6 piercing       | 10           | 20% Chance to apply the posioned condition when hit |
 ### Sniper Rifles
 | Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                                                                                                                                                       |
 | ----------- | ----------- | ------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nekomata    | Tech        | 6d6                | 4            | None                                                                                                                                                                                                 |
-| Ashura      | Smart       | 6d6                | 1            | None                                                                                                                                                                                                 |
-| SPT32 Grad  | Power       | 6d6                | 4            | Has a silencer                                                                                                                                                                                       |
-| Rasetsu     | Tech        | 5d6                | 3            | When charged it can pierce through enemies in a line.                                                                                                                                                |
-| Sparky      | Power       | 5d6                | 4            | Deals an 2d6 Lighting damage, If you roll the same number on both d6s, the lighting chains to the next creature of your choice, Roll 2d6 and if it's the same number on both 6ds repeat the process. |
+| Nekomata    | Tech        | 6d6                | 4 piercing   | None                                                                                                                                                                                                 |
+| Ashura      | Smart       | 6d6                | 1 piercing   | None                                                                                                                                                                                                 |
+| SPT32 Grad  | Power       | 6d6                | 4 piercing   | Has a silencer                                                                                                                                                                                       |
+| Rasetsu     | Tech        | 5d6                | 3 piercing   | When charged it can pierce through enemies in a line.                                                                                                                                                |
+| Sparky      | Power       | 5d6                | 4 piercing   | Deals an 2d6 Lighting damage, If you roll the same number on both d6s, the lighting chains to the next creature of your choice, Roll 2d6 and if it's the same number on both 6ds repeat the process. |
 ### Bladed Weapons
 | Weapon Name        | Weapon Type | Single Shot Damage | Special Effect                                                                        |
 | ------------------ | ----------- | ------------------ | ------------------------------------------------------------------------------------- |
-| Katana             | Bladed      | 3d6                | None                                                                                  |
-| Cut-o-Matic        | Bladed      | 2d6                | None                                                                                  |
-| Machete            | Bladed      | 2d6                | None                                                                                  |
-| Byakko             | Bladed      | 3d6                | Killing an enemy with this weapon allows you to use your bonus action to attack again |
-| Cut-o-Matic x-MOD2 | Bladed      | 2d6                | +2 to attack rolls                                                                    |
-| Volkodav           | Bladed      | 2d6                | 20% Chance to deal 1d10 fire damage when hit                                          |
+| Katana             | Bladed      | 3d6 slashing       | None                                                                                  |
+| Cut-o-Matic        | Bladed      | 2d6 slashing       | None                                                                                  |
+| Machete            | Bladed      | 2d6 slashing       | None                                                                                  |
+| Byakko             | Bladed      | 3d6 slashing       | Killing an enemy with this weapon allows you to use your bonus action to attack again |
+| Cut-o-Matic x-MOD2 | Bladed      | 2d6 slashing       | +2 to attack rolls                                                                    |
+| Volkodav           | Bladed      | 2d6 slashing       | 20% Chance to deal 1d10 fire damage when hit                                          |
 ### Blunt Weapons
 
 | Weapon Name        | Weapon Type | Single Shot Damage | Special Effect                                                    |
 | ------------------ | ----------- | ------------------ | ----------------------------------------------------------------- |
-| Baseball Bat       | Blunt       | 2d6                | None                                                              |
-| Baby Boomer        | Blunt       | 2d6                | Every consecutive hit increases the damage by 1d6                 |
-| Crowbar            | Blunt       | 2d6                | None                                                              |
-| Hammer             | Blunt       | 3d6                | None                                                              |
-| Sasquatch's Hammer | Blunt       | 4d6                | Speed halved                                                      |
-| Caretaker's Spade  | Blunt       | 4d6                | Speed reduced by 10ft                                             |
-| Cottonmouth        | Blunt       | 3d6                | 10% Chance to apply the Posioned and Paralyzed condition on a hit |
+| Baseball Bat       | Blunt       | 2d6 bludgeoning    | None                                                              |
+| Baby Boomer        | Blunt       | 2d6 bludgeoning    | Every consecutive hit increases the damage by 1d6                 |
+| Crowbar            | Blunt       | 2d6 bludgeoning    | None                                                              |
+| Hammer             | Blunt       | 3d6 bludgeoning    | None                                                              |
+| Sasquatch's Hammer | Blunt       | 4d6 bludgeoning    | Speed halved                                                      |
+| Caretaker's Spade  | Blunt       | 4d6 bludgeoning    | Speed reduced by 10ft                                             |
+| Cottonmouth        | Blunt       | 3d6 bludgeoning    | 10% Chance to apply the Posioned and Paralyzed condition on a hit |
 
 ### Cyberware Weapons
 
 | Weapon Name              | Weapon Skill      | Weapon Type | Single Shot Damage | Special Effect                                                                                                        |
 | ------------------------ | ----------------- | ----------- | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| Gorilla Arms             | Body              | Blunt       | 2d6                | On a Crit knocks the creature prone                                                                                   |
-| Mantis Blades            | Reflexes          | Bladed      | 2d6                | None                                                                                                                  |
-| Projectile Launch System | Technical Ability | Tech        | 1d6                | Range up to 15ft, when charged projectile becomes explosive, all creatures within 5ft of target take 1d10 fire damage |
-| Monowire                 | Cool              | Bladed      | 2d6                | Range up to 20ft                                                                                                      |
+| Gorilla Arms             | Body              | Blunt       | 2d6 bludgeoning    | On a Crit knocks the creature prone                                                                                   |
+| Mantis Blades            | Reflexes          | Bladed      | 2d6 slashing       | None                                                                                                                  |
+| Projectile Launch System | Technical Ability | Tech        | 1d6 peircing       | Range up to 15ft, when charged projectile becomes explosive, all creatures within 5ft of target take 1d10 fire damage |
+| Monowire                 | Cool              | Bladed      | 2d6 slashing       | Range up to 20ft                                                                                                      |
