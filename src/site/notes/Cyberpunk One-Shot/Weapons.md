@@ -5,21 +5,28 @@
 
 ## Weapons Types
 
-| Weapon Type      | Weapon Skill | Single Shot Damage | Standard Mag | Rate of Fire (ROF) | Can Be Hidden | Hands Required | Proprerties  |
-| ---------------- | ------------ | ------------------ | ------------ | ------------------ | ------------- | -------------- | ------------ |
-| Pistol           | Cool         | 2d6                | 12           | 2                  | Yes           | 1              | None         |
-| Revolver         | Cool         | 3d6                | 6            | 2                  | Yes           | 1              | None         |
-| SMGs             | Reflexes     | 2d6                | 30           | 1                  | Yes           | 1              | Autofire (3) |
-| Shotguns         | Body         | 5d6                | 4            | 1                  | No            | 2              | None         |
-| Assault Rifles   | Reflexes     | 4d6                | 25           | 1                  | No            | 2              | Autofire (4) |
-| LMGs             | Body         | 3d6                | 40           | 1                  | No            | 2              | Autofire (4) |
-| HMGs             | Body         | 4d6                | 70           | 1                  | No            | 2              | AutoFire(5)  |
-| Precision Rifles | Cool         | 4d6                | 20           | 1                  | No            | 2              | None         |
-| Sniper Rifles    | Cool         | 5d6                | 4            | 1                  | No            | 2              | None         |
-| Blunt            | Body         | 2d6                | N/A          | 2                  | No            | 1-2            | None         |
-| Bladed           | Reflexes     | 2d6                | N/A          | 2                  | No            | 1-2            | None         |
+| Weapon Type      | Weapon Skill | Rate of Fire (ROF) | Can Be Hidden | Hands Required | Proprerties   |
+| ---------------- | ------------ | ------------------ | ------------- | -------------- | ------------- |
+| Pistol           | Cool         | 2                  | Yes           | 1              | None          |
+| Revolver         | Cool         | 2                  | Yes           | 1              | None          |
+| SMGs             | Reflexes     | 1                  | Yes           | 1              | Autofire (3)  |
+| Shotguns         | Body         | 1                  | No            | 2              | None          |
+| Assault Rifles   | Reflexes     | 1                  | No            | 2              | Autofire (4)  |
+| LMGs             | Body         | 1                  | No            | 2              | Autofire (4)  |
+| HMGs             | Body         | 1                  | No            | 2              | AutoFire(5)   |
+| Precision Rifles | Cool         | 1                  | No            | 2              | None          |
+| Sniper Rifles    | Cool         | 1                  | No            | 2              | None          |
+| Blunt            | Body         | 2                  | No            | 2              | Strong Attack |
+| Bladed           | Reflexes     | 2                  | No            | 2              | Strong Attack |
+
+### Rate of Fire (ROF)
+Rate of Fire determines how many single shots you can perform with one attack action. Imagine it's like the fighters extra attack.
+
 ### Weapon Ranges
-Different weapons have different effective ranges, Add or Subtract from your attack roll based on the weapon your using and the distance of the attack. If a weapon range is N/A it means that it cannot fire that far.
+Different weapons have different optimal ranges, Add or Subtract from your attack roll based on the weapon your using and the distance of the attack.
+
+## Quick Melee 
+You may use your bonus action to perform a Quick Melee on an enemy within 5 ft of you. You deal 1d4 damage on a hit.
 
 | Weapon Type      | 0-20ft | 21-40ft | 41-70ft | 71-150ft | 151-300ft | 301-600ft | 601-1000ft |
 | ---------------- | ------ | ------- | ------- | -------- | --------- | --------- | ---------- |
@@ -33,12 +40,25 @@ Different weapons have different effective ranges, Add or Subtract from your att
 | Precision Rifles | -3     | -2      | -1      | +0       | +0        | -2        | -7         |
 | Sniper Rifles    | -15    | -10     | -5      | -3       | -1        | +0        | +0         |
 
+| Weapon Type      | Optimal Range  | Ineffective Range        | Max Range                  |
+| ---------------- | -------------- | ------------------------ | -------------------------- |
+| Pistol           | 0-20 ft (+0)   | 21-50 ft (-5)            | 51-100 ft (Disadvantage)   |
+| Revolver         | 0-30 ft (+0)   | 31-60 ft (-5)            | 61-120 ft (Disadvantage)   |
+| SMGs             | 0-30 ft (+0)   | 31-80 ft (-5)            | 81-150 ft (Disadvantage)   |
+| Shotguns         | 0-15 ft (+0)   | 16–30 ft (-5)            | 31-60 ft (Disadvantage)    |
+| Assault Rifles   | 20-80 ft (+0)  | 0-19 ft, 81-150ft (-5)   | 151-240 ft (Disadvantage)  |
+| LMGs             | 10-80 ft (+0)  | 0-9 ft, 81-150 ft (-5)   | 151-350 ft (Disadvantage)  |
+| HMGs             | 15-90 ft (+0)  | 0-14 ft, 91-200 ft (-5)  | 201-400 ft (Disadvantage)  |
+| Precision Rifles | 30-100 ft (+0) | 0-29 ft, 101-180 ft (-5) | 181–300 ft (Disadvantage)  |
+| Sniper Rifles    | 80-300 ft (+0) | 0-79 ft, 301-700 ft (-5) | 701-1000 ft (Disadvantage) |
+
 ## Autofire
-When you use Autofire, it costs an Action and 15 bullets. If you don't have 15 bullets remaining in your clip, you can't use Autofire. Additionally, instead of the weapon's entry on the Range Table, you use its entry on the Autofire Range Table.
+When using a weapon with Autofire property you can chose to Autofire instead of single shot. When you use Autofire, it costs an Action, a Bonus Action, and 15 bullets. If you don't have 15 bullets remaining in your clip, you can't use Autofire. Additionally, instead of the weapon's entry on the Range Table, you use its entry on the Autofire Range Table.
 
 If you hit, roll 2d6 for damage, and multiply it by the amount you beat the enemy's AC by, up to a maximum denoted by the weapon's Autofire (3 for SMGS, 4 for Assault Rifles). This number is the amount of damage that Autofire dealt. 
 
 ### Autofire Range Table
+
 
 | Weapon Type    | 0-20ft | 21-40ft | 41-70ft | 71-150ft | 151-300ft |
 | -------------- | ------ | ------- | ------- | -------- | --------- |
@@ -46,6 +66,16 @@ If you hit, roll 2d6 for damage, and multiply it by the amount you beat the enem
 | Assault Rifles | -7     | -5      | -3      | -5       | -10       |
 | LMGs           | -7     | -5      | -3      | -5       | -15       |
 | HMGs           | -7     | -3      | -3      | -5       | -10       |
+
+| Weapon Type    | Optimal Range | Ineffective Range       | Max Range                        |
+| -------------- | ------------- | ----------------------- | -------------------------------- |
+| SMGs           | 10-20 ft (-3) | 0-9 ft, 21–50 ft (-7)   | 51-100 ft (Disadvantage and -9)  |
+| Assault Rifles | 30-50 ft (-3) | 0-29 ft, 51-90 ft (-7)  | 91-170 ft (Disadvantage and -9)  |
+| LMGs           | 30-50 ft (-3) | 0-29 ft, 51-100 ft (-7) | 101-200 ft (Disadvantage and -9) |
+| HMGs           | 20-50 ft (-3) | 0-19 ft, 51-120 ft (-7) | 121-230 ft (Disadvantage and -9) |
+
+## Strong Attacks
+When using a Blunt or Bladed weapon you can chose to Strong Attack. Strong Attacks cost an Action and a Bonus action. In exchange you deal and extra 2d6 Bludgeoning Damage
 
 ## Weapon Technologies
 
