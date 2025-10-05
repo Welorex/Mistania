@@ -25,21 +25,6 @@ Rate of Fire determines how many single shots you can perform with one attack ac
 ### Weapon Ranges
 Different weapons have different optimal ranges, Add or Subtract from your attack roll based on the weapon your using and the distance of the attack.
 
-## Quick Melee 
-You may use your bonus action to perform a Quick Melee on an enemy within 5 ft of you. You deal 1d4 damage on a hit.
-
-| Weapon Type      | 0-20ft | 21-40ft | 41-70ft | 71-150ft | 151-300ft | 301-600ft | 601-1000ft |
-| ---------------- | ------ | ------- | ------- | -------- | --------- | --------- | ---------- |
-| Pistol           | +0     | -2      | -3      | -5       | -7        | -10       | N/A        |
-| Revolver         | +0     | -1      | -3      | -5       | -7        | -10       | N/A        |
-| SMGs             | -1     | +0      | -2      | -5       | -10       | -15       | -30        |
-| Shotguns         | +0     | -2      | -3      | -7       | -10       | -20       | N/A        |
-| Assault Rifles   | -2     | -1      | +0      | +0       | -3        | -7        | -15        |
-| LMGs             | -1     | +0      | -2      | -5       | -7        | -15       | -20        |
-| HMGs             | -2     | +0      | +0      | -1       | -5        | -10       | -15        |
-| Precision Rifles | -3     | -2      | -1      | +0       | +0        | -2        | -7         |
-| Sniper Rifles    | -15    | -10     | -5      | -3       | -1        | +0        | +0         |
-
 | Weapon Type      | Optimal Range  | Ineffective Range        | Max Range                  |
 | ---------------- | -------------- | ------------------------ | -------------------------- |
 | Pistol           | 0-20 ft (+0)   | 21-50 ft (-5)            | 51-100 ft (Disadvantage)   |
@@ -51,6 +36,8 @@ You may use your bonus action to perform a Quick Melee on an enemy within 5 ft o
 | HMGs             | 15-90 ft (+0)  | 0-14 ft, 91-200 ft (-5)  | 201-400 ft (Disadvantage)  |
 | Precision Rifles | 30-100 ft (+0) | 0-29 ft, 101-180 ft (-5) | 181–300 ft (Disadvantage)  |
 | Sniper Rifles    | 80-300 ft (+0) | 0-79 ft, 301-700 ft (-5) | 701-1000 ft (Disadvantage) |
+## Quick Melee 
+You may use your bonus action to perform a Quick Melee on an enemy within 5 ft of you. You deal 1d4 damage on a hit.
 
 ## Autofire
 When using a weapon with Autofire property you can chose to Autofire instead of single shot. When you use Autofire, it costs an Action, a Bonus Action, and 15 bullets. If you don't have 15 bullets remaining in your clip, you can't use Autofire. Additionally, instead of the weapon's entry on the Range Table, you use its entry on the Autofire Range Table.
@@ -58,14 +45,6 @@ When using a weapon with Autofire property you can chose to Autofire instead of 
 If you hit, roll 2d6 for damage, and multiply it by the amount you beat the enemy's AC by, up to a maximum denoted by the weapon's Autofire (3 for SMGS, 4 for Assault Rifles). This number is the amount of damage that Autofire dealt. 
 
 ### Autofire Range Table
-
-
-| Weapon Type    | 0-20ft | 21-40ft | 41-70ft | 71-150ft | 151-300ft |
-| -------------- | ------ | ------- | ------- | -------- | --------- |
-| SMGs           | -5     | -3      | -5      | -7       | -15       |
-| Assault Rifles | -7     | -5      | -3      | -5       | -10       |
-| LMGs           | -7     | -5      | -3      | -5       | -15       |
-| HMGs           | -7     | -3      | -3      | -5       | -10       |
 
 | Weapon Type    | Optimal Range | Ineffective Range       | Max Range                        |
 | -------------- | ------------- | ----------------------- | -------------------------------- |
@@ -83,10 +62,10 @@ When using a Blunt or Bladed weapon you can chose to Strong Attack. Strong Attac
 Power weapons are conventional firearms, in the sense that they use traditional ammo, calibers and cartridges. This category includes a wide variety of weapons including disposable and single-use polymer guns, revolvers, pistols, submachine guns, light- and heavy machine guns, shotguns, and rifles. 
 
 ### Smart Weapons
-Smart weapons use path tracing bullets to always land your shots. To use a smart weapon you will need the smart link cyberware. When using a smart weapon you use your Smart weapon Proficiency when attacking. Smart weapon allow your to reroll attacks that miss by 4 or less.
+Smart weapons use path tracing bullets to always land your shots. To use a smart weapon you will need the smart link cyberware. When using a smart weapon you use your Smart weapon Proficiency when attacking. Smart weapons need one round to lock onto a enemy, once locked on use their effect. Smart weapon allow your to reroll attacks that miss by 3 or less.
 
 ### Tech Weapons
-Tech weapons use railgun technology, firing projectiles that are propelled with an electromagnetic charge. When using a smart weapon you use your Tech weapon Proficiency when attacking. Tech weapons can be charged to fire a extra strong projectile. When attacking with a Tech weapon you can chose to fire a normal shot or spend a turn to charge a shot that ignores cover and deal an extra 2d6 damage.
+Tech weapons use railgun technology, firing projectiles that are propelled with an electromagnetic charge. When using a smart weapon you use your Tech weapon Proficiency when attacking. Tech weapons can be charged to fire a extra strong projectile. When attacking with a Tech weapon you can chose to fire a normal shot or spend a turn to charge a shot that ignores 1/2 and 3/4 cover and deal an extra 2d6 damage.
 
 ### Bladed Weapons
 Bladed weapons are sharp, fast and deadly. Perfect for assassination and stealth executions. Bladed weapons include Katanas, Machetes, and the Mantis Blades. When using a Bladed Weapon enemies AC is reduced by 5
@@ -99,11 +78,8 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 ### Pistols
 | Weapon Name      | Weapon Type | Single Shot Damage | Mag Size | Special Effect                                              |
 | ---------------- | ----------- | ------------------ | -------- | ----------------------------------------------------------- |
-| Liberty          | Power       | 4d6 piercing       | 14       | None                                                        |
-| JKE-X2 Kenshin   | Tech        | 2d6 piercing       | 20       | None                                                        |
 | M-10AF Lexington | Power       | 3d6 piercing       | 12       | +2 to attack rolls                                          |
 | Ticon            | Tech        | 2d6 piercing       | 9        | Charged shots fire 3 rounds at once.                        |
-| HJKE-11 Yukimura | Smart       | 2d6 piercing       | 10       | None                                                        |
 | Kappa            | Smart       | 2d6 piercing       | 12       | Can lock onto two enemies, spliting the damage between them |
 
 ### Revolvers
@@ -119,23 +95,20 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 | Senkoh LX   | Tech        | 2d6 piercing       | 25           | Autofires when charged                            |
 | DS1 Pulsar  | Power       | 3d6 piercing       | 30           | None                                              |
 | G-58 Dian   | Smart       | 2d6 piercing       | 30           | None                                              |
-| Fenrir      | Power       | 2d6 piercing       | 30           | 20% to stun an enemy when hit with a single shot. |
+
 ### Shotguns
 | Weapon Name     | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                |
 | --------------- | ----------- | ------------------ | ------------ | ----------------------------- |
-| M2038 Tactician | Power       | 4d6 piercing       | 8            | None                          |
 | Carnage         | Power       | 5d6 piercing       | 4            | None                          |
 | DB-2 Satara     | Tech        | 4d6 piercing       | 2            | Charged Shot vaporizes Cover. |
 | Pozhar x-MOD2   | Power       | 4d6 piercing       | 4            | +2 to attack rolls            |
 
 ### Assault Rifles
-| Weapon Name      | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                                  |
-| ---------------- | ----------- | ------------------ | ------------ | ------------------------------------------------------------------------------- |
-| DA8 Umbra        | Power       | 5d6 piercing       | 25           | None                                                                            |
-| D5 Sidewinder    | Smart       | 4d6 piercing       | 25           | Deals an extra 1d6 damage but only reroll attacks that miss by 2 or less than 2 |
-| HJSH-18 Masamune | Power       | 4d6 piercing       | 20           | Does triple damage on a Critical success of single shots                        |
-| Nowaki           | Power       | 5d6 piercing       | 20           | None                                                                            |
-| Hercules 3AX     | Smart       | 5d6 piercing       | 25           | Allows smart targeting without the required cyberware                           |
+| Weapon Name      | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                           |
+| ---------------- | ----------- | ------------------ | ------------ | ------------------------------------------------------------------------ |
+| D5 Sidewinder    | Smart       | 4d6 piercing       | 25           | Deals an extra 1d6 damage but only reroll attacks that miss by 2 or less |
+| HJSH-18 Masamune | Power       | 4d6 piercing       | 20           | Does triple damage on a Critical success of single shots                 |
+| Hercules 3AX     | Smart       | 5d6 piercing       | 25           | Allows smart targeting without the required cyberware                    |
 
 ### LMGs
 | Weapon Name    | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                 |
@@ -149,23 +122,17 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 ### Precision Rifles
 | Weapon Name     | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                      |
 | --------------- | ----------- | ------------------ | ------------ | --------------------------------------------------- |
-| Achilles x-MOD2 | Tech        | 4d6 piercing       | 12           | None                                                |
 | Hypercritical   | Power       | 5d6 piercing       | 6            | Crits on a 19 or 20                                 |
 | Widow Maker     | Tech        | 4d6 piercing       | 10           | 20% Chance to apply the posioned condition when hit |
 ### Sniper Rifles
 | Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                                                                                                                                                       |
 | ----------- | ----------- | ------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nekomata    | Tech        | 6d6                | 4 piercing   | None                                                                                                                                                                                                 |
-| Ashura      | Smart       | 6d6                | 1 piercing   | None                                                                                                                                                                                                 |
-| SPT32 Grad  | Power       | 6d6                | 4 piercing   | Has a silencer                                                                                                                                                                                       |
-| Rasetsu     | Tech        | 5d6                | 3 piercing   | When charged it can pierce through enemies in a line.                                                                                                                                                |
-| Sparky      | Power       | 5d6                | 4 piercing   | Deals an 2d6 Lighting damage, If you roll the same number on both d6s, the lighting chains to the next creature of your choice, Roll 2d6 and if it's the same number on both 6ds repeat the process. |
+| Ashura      | Smart       | 6d6 piercing       | 1            | None                                                                                                                                                                                                 |
+| Rasetsu     | Tech        | 5d6 piercing       | 3            | When charged it can pierce through enemies in a line.                                                                                                                                                |
+| Sparky      | Power       | 5d6 piercing       | 4            | Deals an 2d6 Lighting damage, If you roll the same number on both d6s, the lighting chains to the next creature of your choice, Roll 2d6 and if it's the same number on both 6ds repeat the process. |
 ### Bladed Weapons
 | Weapon Name        | Weapon Type | Single Shot Damage | Special Effect                                                                        |
 | ------------------ | ----------- | ------------------ | ------------------------------------------------------------------------------------- |
-| Katana             | Bladed      | 3d6 slashing       | None                                                                                  |
-| Cut-o-Matic        | Bladed      | 2d6 slashing       | None                                                                                  |
-| Machete            | Bladed      | 2d6 slashing       | None                                                                                  |
 | Byakko             | Bladed      | 3d6 slashing       | Killing an enemy with this weapon allows you to use your bonus action to attack again |
 | Cut-o-Matic x-MOD3 | Bladed      | 2d6 slashing       | +2 to attack rolls                                                                    |
 | Volkodav           | Bladed      | 2d6 slashing       | 20% Chance to deal 1d10 fire damage when hit                                          |
@@ -173,10 +140,7 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 
 | Weapon Name  | Weapon Type | Single Shot Damage | Special Effect                                                    |
 | ------------ | ----------- | ------------------ | ----------------------------------------------------------------- |
-| Baseball Bat | Blunt       | 2d6 bludgeoning    | None                                                              |
 | Baby Boomer  | Blunt       | 2d6 bludgeoning    | Every consecutive hit increases the damage by 1d6                 |
-| Crowbar      | Blunt       | 2d6 bludgeoning    | None                                                              |
-| Hammer       | Blunt       | 3d6 bludgeoning    | None                                                              |
 | SledgeHammer | Blunt       | 4d6 bludgeoning    | Speed halved                                                      |
 | Spade        | Blunt       | 4d6 bludgeoning    | Speed reduced by 10ft                                             |
 | ViperFang    | Blunt       | 3d6 bludgeoning    | 10% Chance to apply the Posioned and Paralyzed condition on a hit |
