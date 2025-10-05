@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/campaign-two/hollow-stats/"}
 ---
 
-> [!infobox|left clean wmed static]
+> [!infobox|center clean wmed static]
 > # Hollow
 > *Medium Undead, Chaotic Evil*
 > 
@@ -14,16 +14,18 @@
 > 
 > | | | MOD | SAVE | | | MOD | SAVE |
 > | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> | **STR** | 15 | +2 | +# | **INT** | 6 | -2 | +# | 
-> | **DEX** | 13 | +1 | +# | **WIS** | 7 | -2 | +# |
-> | **CON** | 16 | +3 | +# | **CHA** | 5 | -3 | +# |
-> **Resistances** Damage, Damage
-> **Immunities** Damage; Condition
-> **Gear** Item, Item
+> | **STR** | 15 | +2 | +2 | **INT** | 6 | -2 | -2 | 
+> | **DEX** | 13 | +1 | +1 | **WIS** | 7 | -2 | -2 |
+> | **CON** | 16 | +3 | +3 | **CHA** | 5 | -3 | -3 |
+> **Resistances** Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 > **Senses** Darkvision 120ft., Passive Perception 11
 > **Languages** understands the languages it knew in life but can't speak
-> **CR** # (XP #, or # in lair; PB +2)
->
+> **CR** 1 (200 XP., PB +2)
+> 
+>| |
+>| - |
+
+
 
 
 ### Traits
