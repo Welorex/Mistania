@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/campaign-three/campaign-information/campaign-rules-and-format/"}
+---
+
+
+## First Message (Basic Rules)
+I am back in the dnd making zone rn so lets talk about character creation, first some rules; Setting specific backgrounds are banned, they are made for specific campaign, not mine. If you dont know if a background is setting specific, in the dnd wikidot they are categorized by book or if they are from books for specific settings. Backgrounds that give a feat or feature are also banned for obvious reasons. Making your own background using the rules is always cool.
+
+Secondly, UA is banned and you cannot use homebrew classes and feature. When you choose a feat, feats that are made for specific campaigns are banned. lets talk about races, I am ok with you playing any race but I would recommend sticking to the common races or exotic races in the dnd wikidot. Now for ability scores, you can either use sebass's rules for ability scores or use point buy either one is ok. For classes, if you are playing a cleric or paladin, use the forgotten realms or better yet make your own, lore wise the gods aren't very active right now but i'm not going to stop you.
+
+Lasty it would be great if everything could be easily found on dnd5e.wikidot.com, just for convenience. Now have fun
+
+## Second Message (Format and World)
+I am back again for some more information about my campaign, to start I have a few questions for you guys; I'm thinking of making my own pantheon what do you think? (You can still use a god from the forgotten realms). I want this campaign to be low magic and I want your input, I'm not going to stop you from playing magic characters tho. What do you guys think about hexcrawls?. 
+
+Now onto the next part, the format for each session. A session will either, Mostly Combat with some Roleplay, Mostly Roleplay with some combat, or downtime (sometimes called shopping sessions). I will tell you guys what type of session it is at least a day before, Downtime sessions will be few and far between and be reserved for when we need a break from the story. Following this the session itself will be structured as followed; Recap from previous session, playing the game, quick 5-10min break, playing the game, end. The break will usually be after a big event to give me time to set up the next part and give me time to reset. 
+
+For combat I want to try out some tricks I learned online. firstly when we start combat on my dm screen I will have little cards with your guys name on it in order of initiative. Secondly I want to try to use "on deck". When a player starts their turn I will look at the next player in the order initiative and say "Johnny your on deck". Meaning that after the current player is finished it's their turn. Lastly I will share features of a monster when they become relevant, for example if a player rolls above the monsters AC I will then tell you what the AC is since now you've hit it. Another example, I will tell you if a monster has resistance to whatever damage type you've dealt to hit by describing how it seems ineffective. I think this will help with making combat flow better and become more complex. 
+
+Please as your questions any questions about the world/rules. the more I communicate with you guys, the more you'll understand what to expect of the campaign.
+
+## Third Message (World Info and Gameplay)
+So a little more info about the world and Gameplay of my campaigns, starting with the world I want to explain a bit more about the region of Westhaven and the curse that haunts the area. Westhaven is located on the edge of the Daggerleaf forest, it is home to a lot of monsters and has a lot of ruins, gameplay wise after getting the map you guys fill it out by traversing the region, each hex is 3 miles so you can travel through multiple hexes during one day, Depending on the type of hex the time it takes to travel through it increases. the types of hexes are as followed; road/trails: 1 hour, Plains/Hills: 2 hours, Forest or bog: 4 hours, and mountain hexes: 8 hours. And since hexes are 3 miles you can see the hexes around you and choose where to go. Most hexes will have some POI inside them, for example dungeons, or interest things. 
+
+Onto the Hollowing, imagine the Hollowing like a zombie plague mixed with lycanthropy. Its a very dangerous curse that can spread very easily. Hollows (People affected by the Hollowing) are people turned into monsters, they are much stronger then normal zombie and more dangerous than most monsters. I would recommend have a good con stat for saving throws, the DC is low but you never know. Gameplay wise you should run into very few of them if your careful.
+
+Some other gameplay things, I want this campaign to be slightly more scary. So I am going to implement some things, first we are not count rations or ammo (unless its special), its just kind of tedious. But for long rests your going to need to find shelter if you don't want to be interrupted by monsters during the night. Think of it like in Minecraft when it says "You can sleep right now, there are monsters near by". Don't worry there will be plenty of ruins or outposts to take shelter in. Be careful though ruins you guys clear out will be reclaimed by other monsters. 
+
