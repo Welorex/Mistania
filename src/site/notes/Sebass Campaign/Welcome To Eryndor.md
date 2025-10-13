@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sebass-campaign/welcome-to-eryndor/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/sebass-campaign/welcome-to-eryndor/"}
 ---
 
 # Welcome To Eryndor!
