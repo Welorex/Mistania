@@ -9,4 +9,6 @@
 
 ## [[Campaign Three/Campaign Information/Campaign Rules and Format\|Campaign Rules and Format]]
 
-## Idk
+## [Player Reputation](https://docs.google.com/spreadsheets/d/12g8dVqWWymjNHQJEk8JRBhN1TBPFVJR8PLmm5sLxcvA/edit?gid=0#gid=0)
+
+## More idks
