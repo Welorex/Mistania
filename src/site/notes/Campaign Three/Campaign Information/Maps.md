@@ -7,6 +7,6 @@
 ![Eldhaven.png](/img/user/Campaign%20Three/x_images/Eldhaven.png)
 
 **Your Map**
-![Player_view_WestEldhaven.png](/img/user/Campaign%20Three/x_images/Player_view_WestEldhaven.png)
+![West_Eldhaven_PlayerViewFinal.png](/img/user/Campaign%20Three/x_images/West_Eldhaven_PlayerViewFinal.png)
 ### Other Maps
 ![Vaeltorr_v1.png](/img/user/Campaign%20Three/x_images/Vaeltorr_v1.png)
