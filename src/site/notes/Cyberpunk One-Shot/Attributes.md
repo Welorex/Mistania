@@ -2,6 +2,25 @@
 {"dg-publish":true,"permalink":"/cyberpunk-one-shot/attributes/"}
 ---
 
+# Ignore everything but attribute scores
+
+## Attribute Scores
+Each attribute also has a modifier, derived from the score and ranging from −5 (for an attribute score of 1) to +5 (for a score of 20). The Attribute Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 20.
+
+| Score | Modifier |
+| ----- | -------- |
+| 1     | -5       |
+| 2-3   | -4       |
+| 4-5   | -3       |
+| 6-7   | -2       |
+| 8-9   | -1       |
+| 10-11 | +0       |
+| 12-13 | +1       |
+| 14-15 | +2       |
+| 16-17 | +3       |
+| 18-19 | +4       |
+| 20    | +5       |
+
 ## Body
 > Your Body attribute increases your Health, as well as your weapon proficiency with Blunt weapons, LMGs, Shotguns, and Gorilla Arms. The Body attribute also allows you to open some doors by force, rip-off Heavy Machine Guns from turrets, and use intimidation.
 
@@ -25,19 +44,3 @@ Per every 4 Intelligence attribute: +1 Max RAM and +1 weapon proficiency with Sm
 
 Per every 4 Cool attribute: +1 to stealth and +1 weapon proficiency with Pistols, Revolvers, Precision Rifles, Sniper Rifles, and Monowire
 
-## Attribute Scores
-Each attribute also has a modifier, derived from the score and ranging from −5 (for an attribute score of 1) to +10 (for a score of 30). The Attribute Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 20.
-
-| Score | Modifier |
-| ----- | -------- |
-| 1     | -5       |
-| 2-3   | -4       |
-| 4-5   | -3       |
-| 6-7   | -2       |
-| 8-9   | -1       |
-| 10-11 | +0       |
-| 12-13 | +1       |
-| 14-15 | +2       |
-| 16-17 | +3       |
-| 18-19 | +4       |
-| 20    | +5       |
