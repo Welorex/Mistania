@@ -10,19 +10,19 @@ The body has three main areas for cyber-ware, the arms, legs, and face. each are
 ### Cyber-ware: face
 The face has three cyber-ware slots choose from the following:
 
-| Name               | Description and Data                                                                                                                                                                       | CC       |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| Neural Link        | Wired artificial nervous system. **Required, Has three Option Slots**                                                                                                                      | 7 (2d6)  |
-| Chipware Socket    | A single socket installed in the back of the neck **Required to use Chipware**                                                                                                             | 7 (2d6)  |
-| Kerenzikov         | Speedware. User adds +2 to Initiative. Only 1 Speedware can be installed at a time.                                                                                                        | 14 (4d6) |
-| Sandevistan        | Speedware. When activated as an Action add +3 to Initiative and add +2 to Defensive Reactions, for one minute. Has 1 hour cool down period. Only one Speedware can be installed at a time. | 7 (2d6)  |
-| Pain Editor        | Chipware. User Ignores penalties due to being seriously wounded                                                                                                                            | 14 (4d6) |
-| Skill Chip         | Chipware. User gain +3 to two skills of their choice                                                                                                                                       | 7 (2d6)  |
-| Anti-Dazzle        | User becomes immune to the blind condition, **Requires two slots**.                                                                                                                        | 3 (1d6)  |
-| Image enhance      | Adds +2 to perception check                                                                                                                                                                | 3 (1d6)  |
-| X-ray eyes         | User ignores penalties due to darkness, smoke, fog, etc. **Requires two slots**.                                                                                                           | 3 (1d6)  |
-| Targeting Scope    | Adds +1 to ranged attack rolls                                                                                                                                                             | 3 (1d6)  |
-| Radio Communicator | User can communicate via radio                                                                                                                                                             | 3 (1d6)  |
+| Name               | Description and Data                                                                                                                                                             | CC       |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Neural Link        | Wired artificial nervous system. **Required, Has three Option Slots**                                                                                                            | 7 (2d6)  |
+| Chipware Socket    | A single socket installed in the back of the neck **Required to use Chipware**                                                                                                   | 7 (2d6)  |
+| Kerenzikov         | Speedware. User adds +3 to Initiative. Only 1 Speedware can be installed at a time.                                                                                              | 10 (3d6) |
+| Sandevistan        | Speedware. When activated as an Action it allows you to take an extra action each turn for 1 minute. Has 1 hour cool down period. Only one Speedware can be installed at a time. | 20 (5d6) |
+| Pain Editor        | Chipware. User Ignores penalties due to being seriously wounded                                                                                                                  | 14 (4d6) |
+| Skill Chip         | Chipware. User gain +3 to two skills of their choice                                                                                                                             | 7 (2d6)  |
+| Anti-Dazzle        | User becomes immune to the blind condition, **Requires two slots**.                                                                                                              | 3 (1d6)  |
+| Image enhance      | Adds +2 to perception check                                                                                                                                                      | 3 (1d6)  |
+| X-ray eyes         | User ignores penalties due to darkness, smoke, fog, etc. **Requires two slots**.                                                                                                 | 3 (1d6)  |
+| Targeting Scope    | Adds +1 to ranged attack rolls                                                                                                                                                   | 3 (1d6)  |
+| Radio Communicator | User can communicate via radio                                                                                                                                                   | 3 (1d6)  |
 
 ### Cyber-ware: Arms
 The arms have two slots each choose from the following:
