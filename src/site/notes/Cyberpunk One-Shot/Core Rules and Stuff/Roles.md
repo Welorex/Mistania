@@ -25,7 +25,7 @@ Skills: Choose 3 from general skill list
 Cyber-ware: the brawler gains the cyber-ware Blood-pump for free no cost
 
 #### Brawler: Sub Roles
-There are two sub roles for the brawler, the melee weapon specialist (MWS), and the Heavy gun specialist (HGS). Click the link to see their respective perk trees
+There are two sub roles for the brawler, the melee weapon master (MWM), and the Heavy gun specialist (HGS). Click the link to see their respective perk trees [[Cyberpunk One-Shot/Subroles/Melee Weapon Master\|Melee Weapon Master]], [[Cyberpunk One-Shot/Subroles/Heavy gun specialist\|Heavy gun specialist]]
 
 
 ### Gunslinger
@@ -42,5 +42,22 @@ Weapons: Pistol, SMGs, Assault Rifles, Precision Rifles, Sniper Rifles
 Saving Throws: Cool, Reflexes
 Skills: Choose 3 from general skill list
 
-### Gunslinger Sub roles
-There are two sub roles for the gunslinger, the marksmen, and the Soldier. Click the link to see their respective perk trees
+#### Gunslinger Sub roles
+There are two sub roles for the gunslinger, the marksmen, and the Soldier. Click the link to see their respective perk trees [[Cyberpunk One-Shot/Subroles/Marksmen\|Marksmen]], [[Cyberpunk One-Shot/Subroles/Soldier\|Soldier]]
+
+### Netrunner
+The netrunner uses quickhacks and and is very versatile.
+
+Hit Points:
+Hit Dice: 1d6
+Hit Points at 1st Level: 6 + your Body modifier
+Hit Points at Higher Levels: 1d6 + your Body modifier per level after 1st
+
+Proficiencies:
+Armor: Light armor, shields
+Weapons: Pistol
+Saving Throws: Intelligence, Technical Ability
+Skills: Choose 3 from general skill list
+
+#### Netrunner Sub Roles
+There are two sub roles for the netrunner, the quickhacker, and the techslinger

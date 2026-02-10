@@ -44,3 +44,11 @@ These quickhacks come preinstalled on cyberdecks, determined by their manufactur
 | Cyberpsychosis   | Ultimate | 22       | 3 rounds | 1 round     | Forces the enemy to attack the nearest friendly or hostile. If no one is nearby, they will commit suicide instead                                                          |
 | System Colapse   | Ultimate | 28       | Instant  | Instant     | Untraceable<br>Knocks out the enemy without making noise by crippling their nervous system.                                                                                |
 | Suicide          | Ultmate  | 24       | Instant  | 1 round     | Forces the enemy to put a gun to their head and pull the trigger, neutralizing them.                                                                                       |
+#### Device Quickhacks
+
+| Name             | RAM Cost | Duration | Upload Time | Effects                                                                                                                                                                                                                           |
+| ---------------- | -------- | -------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Distract Enemies | 3        | 2 Rounds | Instant     | Causes a device to malfunction, resulting in erratic behavior that will distract nearby people. They have -10 to perception checks                                                                                                |
+| Take Control     | 6        | Depends  | Instant     | Enables remote operation, allowing you to take control of turrets and at times other devices. You must succeed a DC 10 + Security every turn to maintain control of the device                                                    |
+| Friendly Mode    | 5        | 3 Rounds | 1 round     | Overrides the target's recognition module, causing you to be perceived as an ally and authorization holder. Turrets and cameras treat your enemies as their enemies and assist in combat whether you are in combat or undetected. |
+
