@@ -56,6 +56,9 @@ If you hit, roll 2d6 for damage, and multiply it by the amount you beat the enem
 ## Strong Attacks
 When using a Blunt or Bladed weapon you can chose to Strong Attack. Strong Attacks cost an Action and a Bonus action. In exchange you deal and extra 2d6 Bludgeoning Damage
 
+## Reloading
+To reload you need to use your action to reload.
+
 ## Weapon Technologies
 
 ### Power Weapons
