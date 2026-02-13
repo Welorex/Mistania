@@ -101,9 +101,9 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 
 
 ### LMGs
-| Weapon Name    | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                 |
-| -------------- | ----------- | ------------------ | ------------ | ------------------------------ |
-| MA70 HB        | Power       | 3d6 piercing       | 30           | Reduces Movement Speed by 10ft |
+| Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                 |
+| ----------- | ----------- | ------------------ | ------------ | ------------------------------ |
+| MA70 HB     | Power       | 5d6 piercing       | 30           | Reduces Movement Speed by 10ft |
 ### HMGs
 | Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                               |
 | ----------- | ----------- | ------------------ | ------------ | -------------------------------------------- |
