@@ -28,7 +28,6 @@ Different weapons have different optimal ranges, Add or Subtract from your attac
 | Weapon Type      | Optimal Range  | Ineffective Range        | Max Range              |
 | ---------------- | -------------- | ------------------------ | ---------------------- |
 | Pistol           | 0-20 ft (+0)   | 21-50 ft (-5)            | 51-100 ft (DIS & -5)   |
-| Revolver         | 0-30 ft (+0)   | 31-60 ft (-5)            | 61-120 ft (DIS & -5)   |
 | SMGs             | 0-30 ft (+0)   | 31-80 ft (-5)            | 81-150 ft (DIS & -5)   |
 | Shotguns         | 0-15 ft (+0)   | 16–30 ft (-5)            | 31-60 ft (DIS & -5)    |
 | Assault Rifles   | 20-80 ft (+0)  | 0-19 ft, 81-150ft (-5)   | 151-240 ft (DIS & -5)  |
