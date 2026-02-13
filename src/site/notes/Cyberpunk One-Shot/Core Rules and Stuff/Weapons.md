@@ -47,10 +47,10 @@ If you hit, roll 2d6 for damage, and multiply it by the amount you beat the enem
 
 | Weapon Type    | Optimal Range | Ineffective Range       | Max Range                        |
 | -------------- | ------------- | ----------------------- | -------------------------------- |
-| SMGs           | 10-20 ft (-3) | 0-9 ft, 21–50 ft (-7)   | 51-100 ft (Disadvantage and -9)  |
-| Assault Rifles | 30-50 ft (-3) | 0-29 ft, 51-90 ft (-7)  | 91-170 ft (Disadvantage and -9)  |
-| LMGs           | 30-50 ft (-3) | 0-29 ft, 51-100 ft (-7) | 101-200 ft (Disadvantage and -9) |
-| HMGs           | 20-50 ft (-3) | 0-19 ft, 51-120 ft (-7) | 121-230 ft (Disadvantage and -9) |
+| SMGs           | 10-20 ft (+0) | 0-9 ft, 21–50 ft (-7)   | 51-100 ft (Disadvantage and -9)  |
+| Assault Rifles | 30-50 ft (+0) | 0-29 ft, 51-90 ft (-7)  | 91-170 ft (Disadvantage and -9)  |
+| LMGs           | 30-50 ft (+0) | 0-29 ft, 51-100 ft (-7) | 101-200 ft (Disadvantage and -9) |
+| HMGs           | 20-50 ft (+0) | 0-19 ft, 51-120 ft (-7) | 121-230 ft (Disadvantage and -9) |
 
 ## Strong Attacks
 When using a Blunt or Bladed weapon you can chose to Strong Attack. Strong Attacks cost an Action and a Bonus action. In exchange you deal and extra 2d6 Bludgeoning Damage
