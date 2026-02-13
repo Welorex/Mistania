@@ -119,7 +119,7 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 ### Sniper Rifles
 | Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect |
 | ----------- | ----------- | ------------------ | ------------ | -------------- |
-| Rasetsu     | Tech        | 5d6 piercing       | 3            | None           |
+| Rasetsu     | Power       | 5d6 piercing       | 3            | None           |
 
 ### Bladed Weapons
 | Weapon Name | Weapon Type | Single Shot Damage | Special Effect |
