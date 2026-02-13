@@ -51,8 +51,8 @@ The legs have two slots each choose from the following:
 | Web Foot     | Thin webbing between toes, Negates movement penalty when swimming **Must be paired and takes up 2 slots**                              | 3 (1d6) |
 ### Cyber-ware: Role Specific
 
-| Name       | Description                                                                                                                                                         | CC   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| Cyberdeck  | A small chip installed in the back of the neck, Base Cyberdeck has 6 slots for quickhacks and 9 RAM units                                                           | None |
-| Blood Pump | An implant that Accelerates oxygen supply to the body's cells. As a bonus action you may activate the cyber-ware to give you 4d6 + 10 health. Cooldown of 3 rounds. | None |
+| Name                  | Description                                                                                                                                                         | CC   |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Cyberdeck (Netrunner) | A small chip installed in the back of the neck, Base Cyberdeck has 6 slots for quickhacks and 9 RAM units                                                           | None |
+| Blood Pump (Brawler)  | An implant that Accelerates oxygen supply to the body's cells. As a bonus action you may activate the cyber-ware to give you 4d6 + 10 health. Cooldown of 3 rounds. | None |
 
