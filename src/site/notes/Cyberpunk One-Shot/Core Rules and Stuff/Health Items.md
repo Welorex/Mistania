@@ -3,4 +3,4 @@
 ---
 
 ## Health Item
-Everybody gets a Health Item unless you have blood pump cyber-ware, the Health item is a consumable that recharges everyone.
+Everybody gets a Health Item unless you have blood pump cyber-ware, the Health item is a consumable that recharges every 2 rounds. One activation it give 3d6 + 5
