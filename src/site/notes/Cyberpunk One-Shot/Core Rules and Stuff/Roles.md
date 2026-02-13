@@ -20,7 +20,7 @@ Proficiencies:
 Armor: All armor, shields
 Weapons: Blunt, Bladed, Shotguns and LMGs
 Saving Throws: Body, Reflexes
-Skills: Choose 3 from general skill list
+Skills: Choose 5 from general skill list
 
 Cyber-ware: the brawler gains the cyber-ware Blood-pump for free no cost
 
@@ -40,7 +40,7 @@ Proficiencies:
 Armor: Light and Medium armor, shields
 Weapons: Pistol, SMGs, Assault Rifles, Precision Rifles, Sniper Rifles 
 Saving Throws: Cool, Reflexes
-Skills: Choose 3 from general skill list
+Skills: Choose 5 from general skill list
 
 #### Gunslinger Sub roles
 There are two sub roles for the gunslinger, the marksmen, and the Soldier. Click the link to see their respective perk trees [[Cyberpunk One-Shot/Subroles/Marksmen\|Marksmen]], [[Cyberpunk One-Shot/Subroles/Soldier\|Soldier]]
@@ -57,7 +57,9 @@ Proficiencies:
 Armor: Light armor, shields
 Weapons: Pistol
 Saving Throws: Intelligence, Technical Ability
-Skills: Choose 3 from general skill list
+Skills: Choose 5 from general skill list
+
+Cyber-ware: Netrunner get the cyberdeck for free no cost
 
 #### Netrunner Sub Roles
-There are two sub roles for the netrunner, the quickhacker, and the techslinger
+There are two sub roles for the netrunner, the quickhacker, and the techslinger. Click the link to see their respective perk trees
