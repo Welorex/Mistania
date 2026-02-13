@@ -8,12 +8,11 @@
 | Weapon Type      | Weapon Skill (Don't ignore) | Rate of Fire (ROF) | Can Be Hidden | Hands Required | Proprerties   |
 | ---------------- | --------------------------- | ------------------ | ------------- | -------------- | ------------- |
 | Pistol           | Cool                        | 2                  | Yes           | 1              | None          |
-| Revolver         | Cool                        | 2                  | Yes           | 1              | None          |
 | SMGs             | Reflexes                    | 1                  | Yes           | 1              | Autofire (3)  |
 | Shotguns         | Body                        | 1                  | No            | 2              | None          |
 | Assault Rifles   | Reflexes                    | 1                  | No            | 2              | Autofire (4)  |
-| LMGs             | Body                        | 1                  | No            | 2              | Autofire (4)  |
-| HMGs             | Body                        | 1                  | No            | 2              | AutoFire(5)   |
+| LMGs             | Body                        | 2                  | No            | 2              | Autofire (4)  |
+| HMGs             | Body                        | 3                  | No            | 2              | AutoFire(5)   |
 | Precision Rifles | Cool                        | 1                  | No            | 2              | None          |
 | Sniper Rifles    | Cool                        | 1                  | No            | 2              | None          |
 | Blunt            | Body                        | 2                  | No            | 2              | Strong Attack |
