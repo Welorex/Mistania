@@ -3,4 +3,4 @@
 ---
 
 ## Attacking
-When attacking
+When attacking roll your weapon skill (Weapon Type + Proficiency ) to hit.
