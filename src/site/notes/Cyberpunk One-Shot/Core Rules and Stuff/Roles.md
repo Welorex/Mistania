@@ -62,4 +62,4 @@ Skills: Choose 5 from general skill list
 Cyber-ware: Netrunner get the cyberdeck for free no cost
 
 #### Netrunner Sub Roles
-There are two sub roles for the netrunner, the quickhacker, and the techslinger. Click the link to see their respective perk trees
+There are 1 sub role for the netrunner, the quickhacker Click the link to see perk tree [[Cyberpunk One-Shot/Subroles/Quickhacker\|Quickhacker]]

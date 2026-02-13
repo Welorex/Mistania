@@ -12,3 +12,4 @@ for gunslinger its 8 + body mod for 1st level then 1d8 + body mod per level.
 for net runner its 6 + body mod for 1st level then 1d6 + body mod per level.
 
 AC is calculated has followed, 8 + reflex mod + armor rating.
+

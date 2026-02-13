@@ -76,65 +76,60 @@ Blunt weapons are heavy, slow and non-lethal. They enforce brute force and have 
 ## Weapon Choices (ignore special effect)
 
 ### Pistols
-| Weapon Name      | Weapon Type | Single Shot Damage | Mag Size | Special Effect                                              |
-| ---------------- | ----------- | ------------------ | -------- | ----------------------------------------------------------- |
-| M-10AF Lexington | Power       | 3d6 piercing       | 12       | +2 to attack rolls                                          |
-| Ticon            | Tech        | 2d6 piercing       | 9        | Charged shots fire 3 rounds at once.                        |
-| Kappa            | Smart       | 2d6 piercing       | 12       | Can lock onto two enemies, spliting the damage between them |
+| Weapon Name      | Weapon Type | Single Shot Damage | Mag Size | Special Effect |
+| ---------------- | ----------- | ------------------ | -------- | -------------- |
+| M-10AF Lexington | Power       | 3d6 piercing       | 12       | none           |
+
 
 
 ### SMGs
-| Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect         |
-| ----------- | ----------- | ------------------ | ------------ | ---------------------- |
-| DS1 Pulsar  | Power       | 3d6 piercing       | 30           | None                   |
-| G-58 Dian   | Smart       | 2d6 piercing       | 30           | None                   |
+| Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect |
+| ----------- | ----------- | ------------------ | ------------ | -------------- |
+| DS1 Pulsar  | Power       | 2d6 piercing       | 30           | None           |
+
 
 ### Shotguns
-| Weapon Name   | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                |
-| ------------- | ----------- | ------------------ | ------------ | ----------------------------- |
-| Carnage       | Power       | 5d6 piercing       | 4            | None                          |
-| Pozhar x-MOD2 | Power       | 4d6 piercing       | 4            | +2 to attack rolls            |
+| Weapon Name   | Weapon Type | Single Shot Damage | Standard Mag | Special Effect     |
+| ------------- | ----------- | ------------------ | ------------ | ------------------ |
+| Carnage       | Power       | 5d6 piercing       | 4            | None               |
+
 
 ### Assault Rifles
-| Weapon Name      | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                  |
-| ---------------- | ----------- | ------------------ | ------------ | --------------------------------------------------------------- |
-| D5 Sidewinder    | Smart       | 4d6 piercing       | 25           | Reroll attacks that miss by 1                                   |
-| HJSH-18 Masamune | Power       | 4d6 piercing       | 20           | Instead of rolling 8d6 on a Crit roll 4d6 and triple the damage |
-| Hercules 3AX     | Smart       | 3d6 piercing       | 25           | Allows smart targeting without the required cyberware           |
+| Weapon Name   | Weapon Type | Single Shot Damage | Standard Mag | Special Effect |
+| ------------- | ----------- | ------------------ | ------------ | -------------- |
+| D5 Sidewinder | Power       | 4d6 piercing       | 25           | None           |
+
 
 ### LMGs
 | Weapon Name    | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                 |
 | -------------- | ----------- | ------------------ | ------------ | ------------------------------ |
-| M2067 Defender | Power       | 3d6 piercing       | 45           | Halves Movement Speed          |
 | MA70 HB        | Power       | 3d6 piercing       | 30           | Reduces Movement Speed by 10ft |
 ### HMGs
-| Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                |
-| ----------- | ----------- | ------------------ | ------------ | ----------------------------- |
-| Mk. 31 HMG  | Power       | 6d6 piercing       | 100          | Reduces Movement Speed to 5ft |
+| Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                               |
+| ----------- | ----------- | ------------------ | ------------ | -------------------------------------------- |
+| Mk. 31 HMG  | Power       | 6d6 piercing       | 70           | Reduces Movement Speed to 5ft no matter what |
 ### Precision Rifles
-| Weapon Name   | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                      |
-| ------------- | ----------- | ------------------ | ------------ | --------------------------------------------------- |
-| Hypercritical | Power       | 5d6 piercing       | 6            | Crits on a 19 or 20                                 |
+| Weapon Name   | Weapon Type | Single Shot Damage | Standard Mag | Special Effect |
+| ------------- | ----------- | ------------------ | ------------ | -------------- |
+| Hypercritical | Power       | 5d6 piercing       | 6            | none           |
 
 ### Sniper Rifles
-| Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect                                                                                                                                                                                       |
-| ----------- | ----------- | ------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ashura      | Smart       | 6d6 piercing       | 1            | None                                                                                                                                                                                                 |
-| Rasetsu     | Tech        | 5d6 piercing       | 3            | When charged it can pierce through enemies in a line.                                                                                                                                                |
+| Weapon Name | Weapon Type | Single Shot Damage | Standard Mag | Special Effect |
+| ----------- | ----------- | ------------------ | ------------ | -------------- |
+| Rasetsu     | Tech        | 5d6 piercing       | 3            | None           |
 
 ### Bladed Weapons
-| Weapon Name        | Weapon Type | Single Shot Damage | Special Effect                                                                        |
-| ------------------ | ----------- | ------------------ | ------------------------------------------------------------------------------------- |
-| Byakko             | Bladed      | 3d6 slashing       | Killing an enemy with this weapon allows you to use your bonus action to attack again |
-| Cut-o-Matic x-MOD3 | Bladed      | 2d6 slashing       | +2 to attack rolls                                                                    |
+| Weapon Name | Weapon Type | Single Shot Damage | Special Effect |
+| ----------- | ----------- | ------------------ | -------------- |
+| Byakko      | Bladed      | 3d6 slashing       | None           |
+
 
 ### Blunt Weapons
 
-| Weapon Name  | Weapon Type | Single Shot Damage | Special Effect                                                    |
-| ------------ | ----------- | ------------------ | ----------------------------------------------------------------- |
-| Baby Boomer  | Blunt       | 2d6 bludgeoning    | Every consecutive hit increases the damage by 1d6                 |
-| SledgeHammer | Blunt       | 4d6 bludgeoning    | Speed halved                                                      |
-| Spade        | Blunt       | 4d6 bludgeoning    | Speed reduced by 10ft                                             |
+| Weapon Name  | Weapon Type | Single Shot Damage | Special Effect |
+| ------------ | ----------- | ------------------ | -------------- |
+| SledgeHammer | Blunt       | 4d6 bludgeoning    | Speed halved   |
+
 
 
 ### Cyberware Weapons (Not using)
