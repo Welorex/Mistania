@@ -38,7 +38,6 @@ The arms have two slots each choose from the following:
 | Popup Melee Weapon     | Any light, medium or heavy melee weapon installed in arm, can be concealed even if not normally concealable. **Takes up 2 slots**                           | 7 (2d6) |
 | Popup Ranged Weapon    | Any one handed ranged weapon, weapon can be concealed even if not normally concealable. **Takes up 2 slots**                                                | 7 (2d6) |
 | Slice & Dice           | Monofilament whip implanted in the thumb, Medium melee weapon. can be concealed                                                                             | 3 (1d6) |
-| Tech Hands             | Allows the use of Smart tech weapons.                                                                                                                       | 3 (1d6) |
 | Tool Hand              | Fingers contain screwdriver, wrench, small drill, and other tools.                                                                                          | 3 (1d6) |
 ### Cyber-ware: Legs
 The legs have two slots each choose from the following:
