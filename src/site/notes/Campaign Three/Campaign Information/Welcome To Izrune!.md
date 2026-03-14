@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-three/campaign-information/welcome-to-izrune/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/campaign-three/campaign-information/welcome-to-izrune/"}
 ---
 
 # Welcome to Izrune!
